@@ -9,7 +9,7 @@
     <EditText
         android:id="@+id/formText"
         android:layout_width="354dp"
-        android:layout_height="42dp"
+        android:layout_height="48dp"
         android:layout_below="@+id/etName"
         android:layout_alignParentEnd="true"
         android:autofillHints=""

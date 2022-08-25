@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
         Toast.makeText(this,"onStop()",Toast.LENGTH_LONG).show();
-//         save isi dari input
+//         save isi dari input // open
         String f = form.getText().toString();
         SharedPreferences.Editor editor = sharedPreferences.edit();
         editor.putString(Form, f);
