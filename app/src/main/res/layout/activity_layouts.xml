@@ -3,23 +3,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.belajar.android.Layouts"
-    tools:layout_editor_absoluteY="81dp">
+    tools:context=".Layouts">
 
     <Button
-        android:id="@+id/a"
+        android:id="@+id/save"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="A"
-        tools:ignore="DuplicateClickableBoundsCheck"
+        android:text="save"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"/>
+        android:layout_centerVertical="true"
+        />
 
     <Button
-        android:id="@+id/b"
+        android:id="@+id/cancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="B"
-        android:layout_below="@+id/a"
-        android:layout_centerHorizontal="true"/>
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/save"
+        android:text="cancel" />
 </RelativeLayout>
