@@ -1,4 +1,4 @@
-package com.android.hacktiv8;
+package com.belajar.android;
 
 import org.junit.Test;
 

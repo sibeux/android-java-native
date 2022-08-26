@@ -1,4 +1,4 @@
-package com.android.hacktiv8;
+package com.belajar.android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.android.hacktiv8.R;
 
 public class MainActivity extends AppCompatActivity {
     SharedPreferences sharedPreferences;
