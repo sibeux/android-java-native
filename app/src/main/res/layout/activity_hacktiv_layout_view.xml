@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".HacktivLayoutView"
+    tools:context=".HacktivLayoutViewLinear"
     android:background="@color/background_apps"
     android:weightSum="2">
 

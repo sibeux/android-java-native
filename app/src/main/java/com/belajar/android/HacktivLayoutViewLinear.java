@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class HacktivLayoutView extends AppCompatActivity {
+public class HacktivLayoutViewLinear extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
