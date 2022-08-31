@@ -17,7 +17,6 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
 
     SharedPreferences sharedPreferences;
     public static final String myPreference = "pref";
-    public static final String Form = "former";
 
     TextView namaLengkap, alamat, umur, universitas, jurusan;
     Button submit;
@@ -48,8 +47,8 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
             umur.setText(sharedPreferences.getString("umur",""));
             universitas.setText(sharedPreferences.getString("univ",""));
             jurusan.setText(sharedPreferences.getString("jurusan",""));
-            pria.setChecked(sharedPreferences.getBoolean("Male", false));
-            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
+//            pria.setChecked(sharedPreferences.getBoolean("Male", false));
+//            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
         }
     }
 
@@ -86,11 +85,6 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
     }
 
     @Override
-    protected void onStart() {
-        super.onStart();
-    }
-
-    @Override
     protected void onStop() {
         super.onStop();
         String nama = namaLengkap.getText().toString();
@@ -105,14 +99,9 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
         editor.putString("umur", usia);
         editor.putString("jurusan", jurus);
         editor.putString("univ", univ);
-        editor.putBoolean("Male", pria.isChecked());
-        editor.putBoolean("Female", wanita.isChecked());
+//        editor.putBoolean("Male", pria.isChecked());
+//        editor.putBoolean("Female", wanita.isChecked());
         editor.apply();
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
     }
 
     @Override
@@ -135,8 +124,8 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
             umur.setText(sharedPreferences.getString("umur",""));
             universitas.setText(sharedPreferences.getString("univ",""));
             jurusan.setText(sharedPreferences.getString("jurusan",""));
-            pria.setChecked(sharedPreferences.getBoolean("Male", false));
-            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
+//            pria.setChecked(sharedPreferences.getBoolean("Male", false));
+//            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
         }
     }
 }
