@@ -2,7 +2,9 @@ package com.belajar.android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RadioButton;
@@ -12,6 +14,10 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class HacktivSesi6_main extends AppCompatActivity implements View.OnClickListener{
+
+    SharedPreferences sharedPreferences;
+    public static final String myPreference = "pref";
+    public static final String Form = "former";
 
     TextView namaLengkap, alamat, umur, universitas, jurusan;
     Button submit;
@@ -33,6 +39,18 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
         kelamin = findViewById(R.id.kelamin);
         pria = findViewById(R.id.radioMale);
         wanita = findViewById(R.id.radioFemale);
+
+        sharedPreferences = getSharedPreferences(myPreference,
+                Context.MODE_PRIVATE);
+        if (sharedPreferences.contains("nama")){
+            namaLengkap.setText(sharedPreferences.getString("nama",""));
+            alamat.setText(sharedPreferences.getString("alamat",""));
+            umur.setText(sharedPreferences.getString("umur",""));
+            universitas.setText(sharedPreferences.getString("univ",""));
+            jurusan.setText(sharedPreferences.getString("jurusan",""));
+            pria.setChecked(sharedPreferences.getBoolean("Male", false));
+            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
+        }
     }
 
     @Override
@@ -64,6 +82,61 @@ public class HacktivSesi6_main extends AppCompatActivity implements View.OnClick
             String kelamin = pria.isChecked() ? "Laki-laki" : "Perempuan";
             intent.putExtra("kelamin",kelamin);
             startActivity(intent);
+        }
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        String nama = namaLengkap.getText().toString();
+        String alamatRumah = alamat.getText().toString();
+        String usia = umur.getText().toString();
+        String jurus = jurusan.getText().toString();
+        String univ = universitas.getText().toString();
+
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString("nama", nama);
+        editor.putString("alamat", alamatRumah);
+        editor.putString("umur", usia);
+        editor.putString("jurusan", jurus);
+        editor.putString("univ", univ);
+        editor.putBoolean("Male", pria.isChecked());
+        editor.putBoolean("Female", wanita.isChecked());
+        editor.apply();
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        namaLengkap = findViewById(R.id.namaLengkap);
+        alamat = findViewById(R.id.alamat);
+        umur = findViewById(R.id.umur);
+        universitas = findViewById(R.id.universitas);
+        jurusan = findViewById(R.id.jurusan);
+        kelamin = findViewById(R.id.kelamin);
+        pria = findViewById(R.id.radioMale);
+        wanita = findViewById(R.id.radioFemale);
+
+        sharedPreferences = getSharedPreferences(myPreference,
+                Context.MODE_PRIVATE);
+        if (sharedPreferences.contains("nama")){
+            namaLengkap.setText(sharedPreferences.getString("nama",""));
+            alamat.setText(sharedPreferences.getString("alamat",""));
+            umur.setText(sharedPreferences.getString("umur",""));
+            universitas.setText(sharedPreferences.getString("univ",""));
+            jurusan.setText(sharedPreferences.getString("jurusan",""));
+            pria.setChecked(sharedPreferences.getBoolean("Male", false));
+            wanita.setChecked(sharedPreferences.getBoolean("Female", false));
         }
     }
 }
