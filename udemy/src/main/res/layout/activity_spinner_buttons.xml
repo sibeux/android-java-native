@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SpinnerButtons">
+
+    <ImageView
+        android:id="@+id/insta"
+        android:layout_width="122dp"
+        android:layout_height="121dp"
+        android:visibility="invisible"
+        android:layout_marginTop="30dp"
+        app:srcCompat="@drawable/ig" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:textSize="30sp"
+        android:background="@color/teal_200"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:layout_width="236dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="50dp"
+        android:text="Image Hide" />
+
+    <ToggleButton
+        android:id="@+id/onOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="Show"
+        android:textOn="Hide"
+        android:layout_marginTop="30dp"></ToggleButton>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/purple_200"
+            android:text="Select The country"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:textSize="20sp"
+            android:layout_marginRight="30dp"
+            ></TextView>
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"></Spinner>
+    </LinearLayout>
+
+
+</LinearLayout>

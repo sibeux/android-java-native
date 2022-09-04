@@ -9,75 +9,62 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="java tugas sesi 6 : clear">
+    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="rename module name to hacktiv8">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/androidTest/java/com/course/udemy/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/com/course/udemy/DialogMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/com/course/udemy/SnackbarMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/com/course/udemy/SpinnerButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/com/course/udemy/ToastMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/java/com/course/udemy/ToggleButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/drawable/ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/layout/activity_dialog_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/layout/activity_snackbar_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/layout/activity_spinner_buttons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/layout/activity_toast_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/layout/activity_toggle_buttons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/test/java/com/course/udemy/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.hacktiv8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/belajar/android/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/androidTest/java/com/belajar/android/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/Buttons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/CheckButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CheckButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/CounterHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CounterHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/EditText.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/EditText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/HacktivLayoutViewConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/HacktivLayoutViewConstraint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/HacktivLayoutViewLinear.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/HacktivLayoutViewLinear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/HacktivLayoutViewRelative.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/HacktivLayoutViewRelative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/HacktivSesi6_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/HacktivSesi6_main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/HacktivSesi6_view.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/HacktivSesi6_view.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/ImagesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ImagesView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/IntentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/IntentApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/IntentApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/IntentApp2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/Layouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/Layouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/RadioButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/belajar/android/TextViews.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/TextViews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/buttonshape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/buttonshape.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ig.png" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/square.png" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/square.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_buttons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_buttons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_check_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_counter_homework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_counter_homework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_edit_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_edit_text.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hacktiv_layout_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_hacktiv_layout_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hacktiv_layout_view_constraint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_hacktiv_layout_view_constraint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hacktiv_layout_view_relative.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_hacktiv_layout_view_relative.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hacktiv_sesi6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_hacktiv_sesi6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hacktiv_sesi6_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_hacktiv_sesi6_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_images_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_images_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_intent_app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_intent_app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_intent_app2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_intent_app2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_layouts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_layouts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_radio_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_radio_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_text_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_text_views.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/belajar/android/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/test/java/com/belajar/android/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +72,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[scdaijvoh6qwnf7h]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -126,6 +113,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/udemy/src/main/res/drawable" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -138,6 +126,9 @@
     </key>
     <key name="android.template.-851835725">
       <recent name="com.belajar.android" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\res\drawable" />
     </key>
     <key name="android.template.1608962807">
       <recent name="com.belajar.android" />
@@ -153,13 +144,16 @@
       <recent name="com.belajar.android" />
       <recent name="com.android.udemy" />
     </key>
+    <key name="android.template.2046383338">
+      <recent name="com.course.udemy" />
+    </key>
     <key name="android.template.-190961814">
       <recent name="com.belajar.android" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.hacktiv8">
-    <configuration name="CounterHomework" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.app.main" />
+  <component name="RunManager" selected="Android App.DialogMessage">
+    <configuration name="DialogMessage" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.udemy.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -208,15 +202,15 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.CounterHomework" />
+      <option name="ACTIVITY_CLASS" value="com.course.udemy.DialogMessage" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HacktivLayoutViewConstraint" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.app.main" />
+    <configuration name="SnackbarMessage" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.udemy.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -265,15 +259,15 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.HacktivLayoutViewConstraint" />
+      <option name="ACTIVITY_CLASS" value="com.course.udemy.SnackbarMessage" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HacktivLayoutViewRelative" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.app.main" />
+    <configuration name="SpinnerButtons" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.udemy.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -322,15 +316,15 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.HacktivLayoutViewRelative" />
+      <option name="ACTIVITY_CLASS" value="com.course.udemy.SpinnerButtons" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HacktivSesi6" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.app.main" />
+    <configuration name="ToastMessage" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.udemy.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -379,15 +373,15 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.HacktivSesi6_main" />
+      <option name="ACTIVITY_CLASS" value="com.course.udemy.ToastMessage" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HacktivSesi6_view" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.app.main" />
+    <configuration name="ToggleButtons" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.udemy.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -436,7 +430,7 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.HacktivSesi6_view" />
+      <option name="ACTIVITY_CLASS" value="com.course.udemy.ToggleButtons" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
@@ -557,13 +551,70 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="udemy" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="My_Application.udemy.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android App.HacktivSesi6" />
-        <item itemvalue="Android App.CounterHomework" />
-        <item itemvalue="Android App.HacktivSesi6_view" />
-        <item itemvalue="Android App.HacktivLayoutViewConstraint" />
-        <item itemvalue="Android App.HacktivLayoutViewRelative" />
+        <item itemvalue="Android App.DialogMessage" />
+        <item itemvalue="Android App.SnackbarMessage" />
+        <item itemvalue="Android App.ToastMessage" />
+        <item itemvalue="Android App.SpinnerButtons" />
+        <item itemvalue="Android App.ToggleButtons" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661971493391</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="rename module name to hacktiv8">
+      <created>1662290860468</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662290860468</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -719,6 +777,7 @@
     <MESSAGE value="saved instance state java" />
     <MESSAGE value="intent app java" />
     <MESSAGE value="java tugas sesi 6 : cleare" />
-    <option name="LAST_COMMIT_MESSAGE" value="java tugas sesi 6 : cleare" />
+    <MESSAGE value="rename module name to hacktiv8" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename module name to hacktiv8" />
   </component>
 </project>

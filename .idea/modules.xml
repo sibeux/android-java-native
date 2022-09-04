@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.unitTest.iml" />
     </modules>
   </component>
 </project>

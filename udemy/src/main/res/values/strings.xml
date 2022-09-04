@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SyntaxianZ</string>
+    <string-array name="country">
+
+        <item>Japan</item>
+        <item>USA</item>
+        <item>Korea</item>
+        <item>Arab</item>
+        <item>Italy</item>
+
+    </string-array>
+</resources>
