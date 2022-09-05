@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.belajar.android">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,7 +16,10 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
-            android:name=".CounterHomework"
+            android:name=".UserInteraction2"
+            android:exported="false" />
+        <activity
+            android:name=".UserInteraction"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,14 +28,26 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".CounterHomework"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
             android:name=".HacktivLayoutViewConstraint"
             android:exported="true">
-<!--            <intent-filter>-->
-<!--                <action android:name="android.intent.action.MAIN" />-->
-<!--                -->
-<!--                <category android:name="android.intent.category.LAUNCHER" />-->
-<!--                -->
-<!--            </intent-filter>-->
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!--  -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!--  -->
+            <!-- </intent-filter> -->
         </activity>
         <activity
             android:name=".HacktivLayoutViewRelative"
@@ -56,16 +73,17 @@
         </activity>
         <activity
             android:name=".HacktivSesi6_view"
-            android:exported="true">
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".HacktivSesi6_main"
             android:exported="true">
-<!--            <intent-filter>-->
-<!--                <action android:name="android.intent.action.MAIN" />-->
 
-<!--                <category android:name="android.intent.category.LAUNCHER" />-->
-<!--            </intent-filter>-->
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
         </activity>
         <activity
             android:name=".MainActivity"
