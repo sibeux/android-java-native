@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\drawable_ig.png.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\drawable\\ig.png"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\layout_activity_snackbar_message.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\layout\\activity_snackbar_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\layout_activity_toast_message.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\layout\\activity_toast_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\layout_activity_toggle_buttons.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\layout\\activity_toggle_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\layout_activity_spinner_buttons.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\layout\\activity_spinner_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.course.udemy-merged_res-29:/layout_activity_dialog_message.xml.flat",
+        "source": "com.course.udemy-main-31:/layout/activity_dialog_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

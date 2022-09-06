@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+array country
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ig
+id delete
+id insta
+id linear
+id onOff
+id spinner
+id textView
+layout activity_dialog_message
+layout activity_snackbar_message
+layout activity_spinner_buttons
+layout activity_toast_message
+layout activity_toggle_buttons
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyApplication
