@@ -19,19 +19,11 @@ public class Buttons extends AppCompatActivity {
         button = findViewById(R.id.click);
         button2 = findViewById(R.id.unclick);
 
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                button.setBackgroundColor(Color.CYAN);
-                button2.setBackgroundColor(Color.BLUE);
-                button2.setClickable(true);
-                button2.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        button.setBackgroundColor(Color.GREEN);
-                    }
-                });
-            }
+        button.setOnClickListener(v -> {
+            button.setBackgroundColor(Color.CYAN);
+            button2.setBackgroundColor(Color.BLUE);
+            button2.setClickable(true);
+            button2.setOnClickListener(v1 -> button.setBackgroundColor(Color.GREEN));
         });
     }
 }

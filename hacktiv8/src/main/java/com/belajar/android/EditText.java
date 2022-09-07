@@ -2,10 +2,10 @@ package com.belajar.android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class EditText extends AppCompatActivity {
 
@@ -14,6 +14,7 @@ public class EditText extends AppCompatActivity {
     View button;
     String username;
 
+    @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,12 +24,9 @@ public class EditText extends AppCompatActivity {
         result = findViewById(R.id.result);
         button = findViewById(R.id.button);
 
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                username = name.getText().toString();
-                result.setText("Selamat Datang "+username);
-            }
+        button.setOnClickListener(v -> {
+            username = name.getText().toString();
+            result.setText("Selamat Datang "+username);
         });
     }
 }

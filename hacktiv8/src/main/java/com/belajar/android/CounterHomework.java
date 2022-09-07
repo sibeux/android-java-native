@@ -1,9 +1,9 @@
 package com.belajar.android;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -20,17 +20,14 @@ public class CounterHomework extends AppCompatActivity {
 
         number = findViewById(R.id.number);
         counter = findViewById(R.id.counter);
-        counter.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                sum++;
-                displayCounter();
-            }
+        counter.setOnClickListener(v -> {
+            sum++;
+            displayCounter();
         });
     }
 
     @Override
-    protected void onSaveInstanceState(Bundle outState) {
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
         super.onSaveInstanceState(outState);
         // Put int value
         outState.putInt("number",sum);

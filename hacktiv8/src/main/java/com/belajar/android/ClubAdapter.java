@@ -13,13 +13,12 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.squareup.picasso.Picasso;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ClubAdapter extends RecyclerView.Adapter<ClubAdapter.ViewHolder> {
 
     // 1 dataset
-    private List<Club> clubList = new ArrayList<>();
+    private List<Club> clubList;
 
     // 2 constructor
     public ClubAdapter(List<Club> clubList){
@@ -29,7 +28,7 @@ public class ClubAdapter extends RecyclerView.Adapter<ClubAdapter.ViewHolder> {
     private OnClubClickListener listener;
 
     public interface OnClubClickListener{
-        public void onClick(View view, int position);
+        void onClick(View view, int position);
     }
 
     public void setListener(OnClubClickListener listener){
@@ -42,9 +41,7 @@ public class ClubAdapter extends RecyclerView.Adapter<ClubAdapter.ViewHolder> {
         View vh = LayoutInflater.from(parent.getContext())
                 .inflate(R.layout.club_item,parent,false);
 
-        ViewHolder viewHolder = new ViewHolder(vh);
-
-        return viewHolder;
+        return new ViewHolder(vh);
     }
 
     @Override
@@ -67,8 +64,8 @@ public class ClubAdapter extends RecyclerView.Adapter<ClubAdapter.ViewHolder> {
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         // 5 membuat variable di view holder
-        private ImageView logo;
-        private TextView teamName;
+        private final ImageView logo;
+        private final TextView teamName;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -76,19 +73,16 @@ public class ClubAdapter extends RecyclerView.Adapter<ClubAdapter.ViewHolder> {
             logo = itemView.findViewById(R.id.logo_view);
             teamName = itemView.findViewById(R.id.nama_team);
 
-            itemView.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    int position = getAdapterPosition();
-                    Club club = clubList.get(position);
-                    String name = club.getTeamName();
-                    int logo = club.getLogo();
-                    Toast.makeText(v.getContext(),name,Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(v.getContext(), UserInteraction2.class);
-                    intent.putExtra("namaTeam",name);
-                    intent.putExtra("logoTeam",logo);
-                    v.getContext().startActivity(intent);
-                }
+            itemView.setOnClickListener(v -> {
+                int position = getAdapterPosition();
+                Club club = clubList.get(position);
+                String name = club.getTeamName();
+                int logo = club.getLogo();
+                Toast.makeText(v.getContext(),name,Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(v.getContext(), UserInteraction2.class);
+                intent.putExtra("namaTeam",name);
+                intent.putExtra("logoTeam",logo);
+                v.getContext().startActivity(intent);
             });
         }
     }
