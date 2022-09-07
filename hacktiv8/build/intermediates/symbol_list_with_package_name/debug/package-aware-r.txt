@@ -2471,10 +2471,12 @@ drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_minus
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_plus
 drawable ig
 drawable jupe
 drawable m3_appbar_background
@@ -2686,6 +2688,8 @@ id date_picker_actions
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
+id decreaseTeam1
+id decreaseTeam2
 id default_activity_button
 id deltaRelative
 id dependency_ordering
@@ -2776,6 +2780,8 @@ id imagesView
 id immediateStop
 id implicitButton
 id included
+id increaseTeam1
+id increaseTeam2
 id info
 id invisible
 id inward
@@ -2869,6 +2875,7 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id night_mode
 id noScroll
 id noState
 id none
@@ -2921,6 +2928,8 @@ id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
 id scale
+id score1
+id score2
 id screen
 id scroll
 id scrollIndicatorDown
@@ -3153,6 +3162,7 @@ layout abc_tooltip
 layout activity_buttons
 layout activity_check_button
 layout activity_counter_homework
+layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
 layout activity_hacktiv_layout_view_constraint
@@ -3260,6 +3270,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu main_menu_scores
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3295,11 +3306,14 @@ string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string button_decrease
+string button_increase
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string day_mode
 string error_icon_content_description
 string explicit_button
 string exposed_dropdown_menu_content_description
@@ -3311,6 +3325,8 @@ string icon_content_description
 string implicit_button
 string item_view_role_description
 string label
+string label_team1
+string label_team2
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
 string m3_ref_typeface_plain_medium
@@ -3382,6 +3398,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string night_mode
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -3389,6 +3406,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string zero
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
@@ -4443,6 +4461,9 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style minus_button
+style plus_button
+style score_text
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

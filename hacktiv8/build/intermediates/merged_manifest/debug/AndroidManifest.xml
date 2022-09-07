@@ -21,7 +21,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.MyApplication" >
+        android:theme="@style/Theme.AppCompat.DayNight" >
+        <activity
+            android:name="com.belajar.android.DelightfulUserExperiences"
+            android:exported="true" />
         <activity
             android:name="com.belajar.android.UserInteraction2"
             android:exported="false" />

@@ -16,6 +16,8 @@ drawable city
 drawable fcb
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_minus
+drawable ic_plus
 drawable ig
 drawable jupe
 drawable madrid
@@ -37,6 +39,8 @@ id card_view
 id click
 id club_list_rv
 id counter
+id decreaseTeam1
+id decreaseTeam2
 id editText
 id etName
 id explicitButton
@@ -45,6 +49,8 @@ id formText
 id fullname
 id imagesView
 id implicitButton
+id increaseTeam1
+id increaseTeam2
 id jurusan
 id kelamin
 id linier
@@ -54,6 +60,7 @@ id male
 id namaLengkap
 id nama_team
 id name
+id night_mode
 id number
 id radioButtonBlue
 id radioButtonRed
@@ -62,6 +69,8 @@ id radioFemale
 id radioMale
 id result
 id save
+id score1
+id score2
 id sub_txt
 id submit_area
 id textIntenApp2
@@ -73,6 +82,7 @@ id viewRegistrasi
 layout activity_buttons
 layout activity_check_button
 layout activity_counter_homework
+layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
 layout activity_hacktiv_layout_view_constraint
@@ -90,12 +100,23 @@ layout activity_text_views
 layout activity_user_interaction
 layout activity_user_interaction2
 layout club_item
+menu main_menu_scores
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string button_decrease
+string button_increase
+string day_mode
 string explicit_button
 string halaman_explicit
 string implicit_button
+string label_team1
+string label_team2
+string night_mode
+string zero
 style Theme.MyApplication
+style minus_button
+style plus_button
+style score_text
 xml backup_rules
 xml data_extraction_rules

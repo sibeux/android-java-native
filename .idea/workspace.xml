@@ -11,40 +11,83 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="recycler view">
+    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="merapikan baris kode">
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/DelightfulUserExperiences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_minus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_plus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_delightful_user_experiences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/menu/main_menu_scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CheckButton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CheckButton$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CheckButton$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CheckButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CheckButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ClubAdapter$ViewHolder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ClubAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ClubAdapter$ViewHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ClubAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ClubAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CheckButton$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CheckButton$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CheckButton$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CheckButton.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CheckButton.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ClubAdapter$ViewHolder$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ClubAdapter$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ClubAdapter$ViewHolder.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ClubAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ClubAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/Buttons$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/Buttons$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/Buttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/Buttons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CounterHomework$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CounterHomework.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/CounterHomework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/EditText$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/EditText.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/EditText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ImagesView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ImagesView.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ImagesView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/RadioButtons$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/RadioButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/RadioButtons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/TextViews.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/TextViews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CounterHomework$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CounterHomework.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CounterHomework.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/EditText$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/EditText.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/EditText.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ImagesView$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ImagesView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ImagesView.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/RadioButtons$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/RadioButtons.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/RadioButtons.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/TextViews.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/TextViews.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/fb055842e20deb695ae0fa749729aee9dc6692231f6198030795b8c029ff7bad_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/Buttons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CheckButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CheckButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ClubAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ClubAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CounterHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/CounterHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/EditText.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/EditText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ImagesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ImagesView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/RadioButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/TextViews.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/TextViews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +103,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -91,6 +135,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
@@ -133,11 +178,15 @@
       <recent name="com.belajar.android.udemy" />
       <recent name="com.belajar.android" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\res\menu" />
+    </key>
     <key name="android.template.-801670484">
       <recent name="com.belajar.android" />
       <recent name="com.android.udemy" />
     </key>
     <key name="android.template.-337431794">
+      <recent name="com.belajar.android" />
       <recent name="com.course.udemy" />
     </key>
     <key name="android.template.591106411">
@@ -147,7 +196,7 @@
       <recent name="com.belajar.android" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.EditText">
+  <component name="RunManager" selected="Android App.DelightfulUserExperiences">
     <configuration name="CounterHomework" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.hacktiv8.main" />
       <option name="DEPLOY" value="true" />
@@ -205,6 +254,63 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DelightfulUserExperiences" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.hacktiv8.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.DelightfulUserExperiences" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EditText" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.hacktiv8.main" />
       <option name="DEPLOY" value="true" />
@@ -256,63 +362,6 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="com.belajar.android.EditText" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListView" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.udemy.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="specific_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.course.udemy.ListView" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
@@ -606,11 +655,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android App.DelightfulUserExperiences" />
         <item itemvalue="Android App.EditText" />
         <item itemvalue="Android App.CounterHomework" />
         <item itemvalue="Android App.UserInteraction" />
         <item itemvalue="Android App.RecyclerView" />
-        <item itemvalue="Android App.ListView" />
       </list>
     </recent_temporary>
   </component>
@@ -784,7 +833,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662548717709</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="merapikan baris kode">
+      <created>1662549413826</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1662549413826</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -822,6 +878,7 @@
     <MESSAGE value="contraint layout" />
     <MESSAGE value="list view" />
     <MESSAGE value="recycler view" />
-    <option name="LAST_COMMIT_MESSAGE" value="recycler view" />
+    <MESSAGE value="merapikan baris kode" />
+    <option name="LAST_COMMIT_MESSAGE" value="merapikan baris kode" />
   </component>
 </project>
