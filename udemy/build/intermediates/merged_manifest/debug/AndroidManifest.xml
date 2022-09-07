@@ -19,13 +19,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.course.udemy.ListView"
+            android:exported="true" />
+        <activity
+            android:name="com.course.udemy.ConstraintLayout"
+            android:exported="true" />
+        <activity
             android:name="com.course.udemy.DialogMessage"
             android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
         </activity>
         <activity
             android:name="com.course.udemy.SnackbarMessage"

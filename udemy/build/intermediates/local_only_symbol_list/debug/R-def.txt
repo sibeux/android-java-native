@@ -1,6 +1,6 @@
 R_DEF: Internal format may change without notice
 local
-array country
+array countries
 color black
 color purple_200
 color purple_500
@@ -11,13 +11,16 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ig
+id countries
 id delete
 id insta
 id linear
 id onOff
 id spinner
 id textView
+layout activity_constraint_layout
 layout activity_dialog_message
+layout activity_list_view
 layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message

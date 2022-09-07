@@ -30,7 +30,7 @@ public class SpinnerButtons extends AppCompatActivity {
         onOff = findViewById(R.id.onOff);
         spinner = findViewById(R.id.spinner);
 
-        adapter = ArrayAdapter.createFromResource(this,R.array.country,
+        adapter = ArrayAdapter.createFromResource(this,R.array.countries,
                 android.R.layout.simple_spinner_item);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(adapter);
