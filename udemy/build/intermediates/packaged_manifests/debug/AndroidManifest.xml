@@ -19,6 +19,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.course.udemy.RecyclerView"
+            android:exported="true" />
+        <activity
             android:name="com.course.udemy.ListView"
             android:exported="true" />
         <activity

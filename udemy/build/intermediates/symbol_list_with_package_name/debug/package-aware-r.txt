@@ -256,6 +256,10 @@ attr circularflow_defaultAngle
 attr circularflow_defaultRadius
 attr circularflow_radiusInDP
 attr circularflow_viewCenter
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr clearsTag
 attr clickAction
 attr clockFaceBackgroundColor
@@ -2443,8 +2447,10 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable america
 drawable avd_hide_password
 drawable avd_show_password
+drawable brazil
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2511,6 +2517,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable spain
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2617,6 +2624,7 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardView
 id carryVelocity
 id center
 id centerCrop
@@ -2742,6 +2750,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image_view
 id immediateStop
 id included
 id info
@@ -2863,6 +2872,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2958,6 +2968,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textViewCountryName
+id textViewDetail
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3101,10 +3113,12 @@ layout abc_tooltip
 layout activity_constraint_layout
 layout activity_dialog_message
 layout activity_list_view
+layout activity_recycler_view
 layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message
 layout activity_toggle_buttons
+layout card_design
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4406,6 +4420,7 @@ styleable Carousel carousel_backwardTransition carousel_emptyViewsBehavior carou
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize

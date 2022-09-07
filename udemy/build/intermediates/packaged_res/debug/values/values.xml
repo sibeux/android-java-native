@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <string-array name="country">
+    <string-array name="countries">
 
         <item>Japan</item>
+        <item>Russia</item>
         <item>USA</item>
         <item>Korea</item>
         <item>Arab</item>
         <item>Italy</item>
+        <item>Iraq</item>
+        <item>Spain</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Brazil</item>
+        <item>America</item>
+        <item>Africa</item>
+        <item>Korea</item>
+        <item>Singapore</item>
+        <item>HongKong</item>
+        <item>China</item>
+        <item>Turkey</item>
 
     </string-array>
     <color name="black">#FF000000</color>
