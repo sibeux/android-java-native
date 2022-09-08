@@ -3027,6 +3027,7 @@ int id view_tree_saved_state_registry_owner 0x7f0801db
 int id view_tree_view_model_store_owner 0x7f0801dc
 int id visible 0x7f0801dd
 int id visible_removing_fragment_view_tag 0x7f0801de
+int id webview 0x7f0801fa
 int id west 0x7f0801df
 int id withText 0x7f0801e0
 int id withinBounds 0x7f0801e1
@@ -3138,6 +3139,7 @@ int layout activity_snackbar_message 0x7f0b0079
 int layout activity_spinner_buttons 0x7f0b0077
 int layout activity_toast_message 0x7f0b0078
 int layout activity_toggle_buttons 0x7f0b001c
+int layout activity_web_view 0x7f0b0082
 int layout card_design 0x7f0b007e
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e

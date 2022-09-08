@@ -3028,6 +3028,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id webview
 id west
 id withText
 id withinBounds
@@ -3139,6 +3140,7 @@ layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message
 layout activity_toggle_buttons
+layout activity_web_view
 layout card_design
 layout custom_dialog
 layout design_bottom_navigation_item

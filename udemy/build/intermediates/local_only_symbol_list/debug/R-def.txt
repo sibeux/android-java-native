@@ -45,6 +45,7 @@ id textView
 id textView2
 id textViewCountryName
 id textViewDetail
+id webview
 layout activity_constraint_layout
 layout activity_dialog_message
 layout activity_grid_view
@@ -55,6 +56,7 @@ layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message
 layout activity_toggle_buttons
+layout activity_web_view
 layout card_design
 layout grid_view_layout
 mipmap ic_launcher

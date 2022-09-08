@@ -10,146 +10,159 @@
 9        android:targetSdkVersion="32" />
 9-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
 10
-11    <application
-11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:5:5-82:19
-12        android:allowBackup="true"
-12-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:7:9-43
-16        android:label="@string/app_name"
-16-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:8:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:9:9-54
-18        android:supportsRtl="true"
-18-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.MyApplication" >
-20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:11:9-51
-21        <activity
-21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:12:9-14:39
-22            android:name="com.course.udemy.ScrollView"
-22-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:13:13-39
-23            android:exported="true" />
-23-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:14:13-36
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:5:5-83
+11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:6:5-92
+12-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:6:22-73
+13
+14    <application
+14-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:8:5-88:19
+15        android:allowBackup="true"
+15-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.MyApplication" >
+23-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:14:9-51
 24        <activity
 24-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:15:9-17:39
-25            android:name="com.course.udemy.GridView"
-25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:16:13-37
+25            android:name="com.course.udemy.WebView"
+25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:16:13-36
 26            android:exported="true" />
 26-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:17:13-36
 27        <activity
 27-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:18:9-20:39
-28            android:name="com.course.udemy.RecyclerView"
-28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:19:13-41
+28            android:name="com.course.udemy.ScrollView"
+28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:19:13-39
 29            android:exported="true" />
 29-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:20:13-36
 30        <activity
 30-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:21:9-23:39
-31            android:name="com.course.udemy.ListView"
+31            android:name="com.course.udemy.GridView"
 31-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:22:13-37
 32            android:exported="true" />
 32-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:23:13-36
 33        <activity
 33-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:24:9-26:39
-34            android:name="com.course.udemy.ConstraintLayout"
-34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:25:13-45
+34            android:name="com.course.udemy.RecyclerView"
+34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:25:13-41
 35            android:exported="true" />
 35-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:26:13-36
 36        <activity
-36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:27:9-37:20
-37            android:name="com.course.udemy.DialogMessage"
-37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:28:13-42
-38            android:exported="true" >
+36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:27:9-29:39
+37            android:name="com.course.udemy.ListView"
+37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:28:13-37
+38            android:exported="true" />
 38-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:29:13-36
-39
-40            <!-- <intent-filter> -->
-41            <!-- <action android:name="android.intent.action.MAIN" /> -->
-42
-43
-44            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-45            <!-- </intent-filter> -->
-46        </activity>
-47        <activity
-47-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:38:9-48:20
-48            android:name="com.course.udemy.SnackbarMessage"
-48-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:39:13-44
-49            android:exported="true" >
-49-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:40:13-36
-50
-51            <!-- <intent-filter> -->
-52            <!-- <action android:name="android.intent.action.MAIN" /> -->
-53
-54
-55            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-56            <!-- </intent-filter> -->
-57        </activity>
-58        <activity
-58-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:49:9-59:20
-59            android:name="com.course.udemy.ToastMessage"
-59-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:50:13-41
-60            android:exported="true" >
-60-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:51:13-36
-61
-62            <!-- <intent-filter> -->
-63            <!-- <action android:name="android.intent.action.MAIN" /> -->
-64
-65
-66            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-67            <!-- </intent-filter> -->
-68        </activity>
-69        <activity
-69-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:60:9-70:20
-70            android:name="com.course.udemy.SpinnerButtons"
-70-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:61:13-43
-71            android:exported="true" >
-71-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:62:13-36
-72
-73            <!-- <intent-filter> -->
-74            <!-- <action android:name="android.intent.action.MAIN" /> -->
-75
-76
-77            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-78            <!-- </intent-filter> -->
-79        </activity>
-80        <activity
-80-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:71:9-81:20
-81            android:name="com.course.udemy.ToggleButtons"
-81-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:72:13-42
-82            android:exported="true" >
-82-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:73:13-36
-83
-84            <!-- <intent-filter> -->
-85            <!-- <action android:name="android.intent.action.MAIN" /> -->
-86
-87
-88            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-89            <!-- </intent-filter> -->
-90        </activity>
-91
-92        <provider
-92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-93            android:name="androidx.startup.InitializationProvider"
-93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-94            android:authorities="com.course.udemy.androidx-startup"
-94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-95            android:exported="false" >
-95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-96            <meta-data
-96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-97                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-98                android:value="androidx.startup" />
-98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-99            <meta-data
-99-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-100                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-100-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-101                android:value="androidx.startup" />
-101-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-102        </provider>
-103    </application>
-104
-105</manifest>
+39        <activity
+39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:30:9-32:39
+40            android:name="com.course.udemy.ConstraintLayout"
+40-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:31:13-45
+41            android:exported="true" />
+41-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:32:13-36
+42        <activity
+42-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:33:9-43:20
+43            android:name="com.course.udemy.DialogMessage"
+43-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:34:13-42
+44            android:exported="true" >
+44-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:35:13-36
+45
+46            <!-- <intent-filter> -->
+47            <!-- <action android:name="android.intent.action.MAIN" /> -->
+48
+49
+50            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+51            <!-- </intent-filter> -->
+52        </activity>
+53        <activity
+53-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:44:9-54:20
+54            android:name="com.course.udemy.SnackbarMessage"
+54-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:45:13-44
+55            android:exported="true" >
+55-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:46:13-36
+56
+57            <!-- <intent-filter> -->
+58            <!-- <action android:name="android.intent.action.MAIN" /> -->
+59
+60
+61            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+62            <!-- </intent-filter> -->
+63        </activity>
+64        <activity
+64-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:55:9-65:20
+65            android:name="com.course.udemy.ToastMessage"
+65-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:56:13-41
+66            android:exported="true" >
+66-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:57:13-36
+67
+68            <!-- <intent-filter> -->
+69            <!-- <action android:name="android.intent.action.MAIN" /> -->
+70
+71
+72            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+73            <!-- </intent-filter> -->
+74        </activity>
+75        <activity
+75-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:66:9-76:20
+76            android:name="com.course.udemy.SpinnerButtons"
+76-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:67:13-43
+77            android:exported="true" >
+77-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:68:13-36
+78
+79            <!-- <intent-filter> -->
+80            <!-- <action android:name="android.intent.action.MAIN" /> -->
+81
+82
+83            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+84            <!-- </intent-filter> -->
+85        </activity>
+86        <activity
+86-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:77:9-87:20
+87            android:name="com.course.udemy.ToggleButtons"
+87-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:78:13-42
+88            android:exported="true" >
+88-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:79:13-36
+89
+90            <!-- <intent-filter> -->
+91            <!-- <action android:name="android.intent.action.MAIN" /> -->
+92
+93
+94            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+95            <!-- </intent-filter> -->
+96        </activity>
+97
+98        <provider
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+99            android:name="androidx.startup.InitializationProvider"
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+100            android:authorities="com.course.udemy.androidx-startup"
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+101            android:exported="false" >
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+102            <meta-data
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+103                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+104                android:value="androidx.startup" />
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+105            <meta-data
+105-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+106                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+106-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+107                android:value="androidx.startup" />
+107-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+108        </provider>
+109    </application>
+110
+111</manifest>

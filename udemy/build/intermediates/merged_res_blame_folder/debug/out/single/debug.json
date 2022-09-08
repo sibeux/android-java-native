@@ -124,6 +124,10 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\layout\\activity_toast_message.xml"
     },
     {
+        "merged": "com.course.udemy-merged_res-30:/layout_activity_web_view.xml.flat",
+        "source": "com.course.udemy-main-32:/layout/activity_web_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
