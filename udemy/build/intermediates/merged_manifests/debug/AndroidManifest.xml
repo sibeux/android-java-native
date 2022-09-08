@@ -19,6 +19,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.course.udemy.ScrollView"
+            android:exported="true" />
+        <activity
+            android:name="com.course.udemy.GridView"
+            android:exported="true" />
+        <activity
             android:name="com.course.udemy.RecyclerView"
             android:exported="true" />
         <activity

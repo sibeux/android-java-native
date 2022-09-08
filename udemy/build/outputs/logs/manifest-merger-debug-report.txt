@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\633b1da6171761b2f79f2ef4f1d088d6\transformed\appcompat-resources-1.5.0\AndroidManifest.xml:17:1-22:12
@@ -45,25 +45,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nasrul Wahabi\.g
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\cdcb8e50109b2c2b9e961e9ab007ca34\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
 	package
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-78:12
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:1-84:12
 		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:5:5-76:19
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:5:5-82:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -94,54 +94,66 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Na
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:11:9-51
-activity#com.course.udemy.RecyclerView
+activity#com.course.udemy.ScrollView
 ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:12:9-14:39
 	android:exported
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:13:13-41
-activity#com.course.udemy.ListView
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:13:13-39
+activity#com.course.udemy.GridView
 ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:15:9-17:39
 	android:exported
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:17:13-36
 	android:name
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:16:13-37
-activity#com.course.udemy.ConstraintLayout
+activity#com.course.udemy.RecyclerView
 ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:18:9-20:39
 	android:exported
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:19:13-45
-activity#com.course.udemy.DialogMessage
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:21:9-31:20
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:19:13-41
+activity#com.course.udemy.ListView
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:21:9-23:39
 	android:exported
 		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:22:13-42
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:22:13-37
+activity#com.course.udemy.ConstraintLayout
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:25:13-45
+activity#com.course.udemy.DialogMessage
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:27:9-37:20
+	android:exported
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:28:13-42
 activity#com.course.udemy.SnackbarMessage
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:32:9-42:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:38:9-48:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:34:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:33:13-44
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:39:13-44
 activity#com.course.udemy.ToastMessage
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:43:9-53:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:49:9-59:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:45:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:51:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:44:13-41
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:50:13-41
 activity#com.course.udemy.SpinnerButtons
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:54:9-64:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:60:9-70:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:56:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:62:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:55:13-43
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:61:13-43
 activity#com.course.udemy.ToggleButtons
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:65:9-75:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:71:9-81:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:67:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:73:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:66:13-42
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml:72:13-42
 uses-sdk
 INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\AndroidManifest.xml
