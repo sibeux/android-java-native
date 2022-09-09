@@ -33,6 +33,7 @@ id button6
 id cardView
 id countries
 id delete
+id fragmentContainerView
 id goBackButton
 id grid
 id gridview
@@ -45,12 +46,14 @@ id recyclerView
 id spinner
 id textView
 id textView2
+id textView3
 id textViewCountryName
 id textViewDetail
 id webview
 layout activity_application_lifecycle
 layout activity_constraint_layout
 layout activity_dialog_message
+layout activity_fragment_lifecycle
 layout activity_grid_view
 layout activity_lifecycle
 layout activity_list_view
@@ -63,6 +66,7 @@ layout activity_toast_message
 layout activity_toggle_buttons
 layout activity_web_view
 layout card_design
+layout fragment_new
 layout grid_view_layout
 mipmap ic_launcher
 mipmap ic_launcher_round

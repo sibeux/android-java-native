@@ -2742,6 +2742,7 @@ id fixed
 id flip
 id floating
 id forever
+id fragmentContainerView
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -2989,6 +2990,7 @@ id textStart
 id textTop
 id textView
 id textView2
+id textView3
 id textViewCountryName
 id textViewDetail
 id text_input_end_icon
@@ -3135,6 +3137,7 @@ layout abc_tooltip
 layout activity_application_lifecycle
 layout activity_constraint_layout
 layout activity_dialog_message
+layout activity_fragment_lifecycle
 layout activity_grid_view
 layout activity_lifecycle
 layout activity_list_view
@@ -3163,6 +3166,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_new
 layout grid_view_layout
 layout m3_alert_dialog
 layout m3_alert_dialog_actions

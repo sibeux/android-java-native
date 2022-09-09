@@ -22,6 +22,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.course.udemy.FragmentLifecycle"
+            android:exported="true" />
+        <activity
             android:name="com.course.udemy.SecondActivity"
             android:exported="true" />
         <activity
