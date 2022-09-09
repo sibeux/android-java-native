@@ -22,6 +22,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.course.udemy.SecondActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.course.udemy.ActivityLifecycle"
+            android:exported="true" />
+        <activity
+            android:name="com.course.udemy.ApplicationLifecycle"
+            android:exported="true" />
+        <activity
             android:name="com.course.udemy.WebView"
             android:exported="true" />
         <activity

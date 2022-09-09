@@ -24,6 +24,7 @@ drawable snake
 drawable spain
 drawable zebra
 id button
+id button1
 id button2
 id button3
 id button4
@@ -32,6 +33,7 @@ id button6
 id cardView
 id countries
 id delete
+id goBackButton
 id grid
 id gridview
 id imageView
@@ -46,12 +48,15 @@ id textView2
 id textViewCountryName
 id textViewDetail
 id webview
+layout activity_application_lifecycle
 layout activity_constraint_layout
 layout activity_dialog_message
 layout activity_grid_view
+layout activity_lifecycle
 layout activity_list_view
 layout activity_recycler_view
 layout activity_scroll_view
+layout activity_second
 layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message

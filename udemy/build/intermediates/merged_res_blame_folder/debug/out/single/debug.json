@@ -12,12 +12,24 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\layout_activity_application_lifecycle.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\layout\\activity_application_lifecycle.xml"
+    },
+    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\layout_activity_recycler_view.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\layout\\activity_recycler_view.xml"
     },
     {
+        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\layout\\activity_web_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.course.udemy-merged_res-30:/layout_activity_second.xml.flat",
+        "source": "com.course.udemy-main-32:/layout/activity_second.xml"
     },
     {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\drawable_zebra.jpeg.flat",
@@ -88,10 +100,6 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\drawable\\spain.png"
     },
     {
-        "merged": "com.course.udemy-merged_res-30:/layout_activity_scroll_view.xml.flat",
-        "source": "com.course.udemy-main-32:/layout/activity_scroll_view.xml"
-    },
-    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -124,10 +132,6 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\layout\\activity_toast_message.xml"
     },
     {
-        "merged": "com.course.udemy-merged_res-30:/layout_activity_web_view.xml.flat",
-        "source": "com.course.udemy-main-32:/layout/activity_web_view.xml"
-    },
-    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
@@ -146,6 +150,10 @@
     {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\drawable_brazil.png.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-main-32:\\drawable\\brazil.png"
+    },
+    {
+        "merged": "com.course.udemy-merged_res-30:/layout_activity_lifecycle.xml.flat",
+        "source": "com.course.udemy-main-32:/layout/activity_lifecycle.xml"
     },
     {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.course.udemy-merged_res-30:\\layout_grid_view_layout.xml.flat",
