@@ -16,6 +16,16 @@
         android:theme="@style/Theme.AppCompat.DayNight"
         tools:targetApi="31">
         <activity
+            android:name=".SQLiteMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BackgroundServices"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".BackgroundProcessing"
+            android:exported="true" />
+        <activity
             android:name=".DelightfulUserExperiences"
             android:exported="true" />
         <activity

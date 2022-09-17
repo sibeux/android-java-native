@@ -1,0 +1,4 @@
+1. New Project
+2. Setup Main Layout -> View (Button & Recycler Veiw)
+3. Create Class Model Country
+4. Create Class DatabaseHelper

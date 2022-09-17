@@ -23,6 +23,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.DayNight" >
         <activity
+            android:name="com.belajar.android.SQLiteMainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.belajar.android.BackgroundServices"
+            android:exported="false" />
+        <activity
+            android:name="com.belajar.android.BackgroundProcessing"
+            android:exported="true" />
+        <activity
             android:name="com.belajar.android.DelightfulUserExperiences"
             android:exported="true" />
         <activity

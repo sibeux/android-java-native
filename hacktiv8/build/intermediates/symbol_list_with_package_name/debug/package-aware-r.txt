@@ -2464,6 +2464,8 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable fcb
+drawable ic_baseline_edit_24
+drawable ic_baseline_remove_circle_outline_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2636,6 +2638,8 @@ id button4
 id button5
 id button6
 id button7
+id buttonDownload
+id buttonNewCountry
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2680,6 +2684,9 @@ id coordinator
 id cos
 id counter
 id counterclockwise
+id countryName
+id countryNameInput
+id country_list_rv
 id currentState
 id custom
 id customPanel
@@ -2721,6 +2728,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editIcon
 id editText
 id edit_query
 id edittext_dropdown_editable
@@ -2772,6 +2780,7 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id idCountry
 id ifRoom
 id ignore
 id ignoreRequest
@@ -2903,6 +2912,8 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id population
+id populationInput
 id position
 id postLayout
 id progress_circular
@@ -2915,6 +2926,7 @@ id radioFemale
 id radioMale
 id ratio
 id rectangles
+id removeIcon
 id result
 id reverseSawtooth
 id right
@@ -2924,6 +2936,7 @@ id right_side
 id rounded
 id row_index_key
 id save
+id saveButton
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2982,6 +2995,7 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id status
 id stop
 id stretch
 id sub_txt
@@ -3159,6 +3173,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_background_processing
+layout activity_background_services
 layout activity_buttons
 layout activity_check_button
 layout activity_counter_homework
@@ -3176,10 +3192,12 @@ layout activity_layouts
 layout activity_main
 layout activity_main2
 layout activity_radio_button
+layout activity_sqlite_main
 layout activity_text_views
 layout activity_user_interaction
 layout activity_user_interaction2
 layout club_item
+layout country_item
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3196,6 +3214,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout form_country
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
