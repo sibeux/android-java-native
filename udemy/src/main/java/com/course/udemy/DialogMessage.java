@@ -27,14 +27,7 @@ public class DialogMessage extends AppCompatActivity {
         text = findViewById(R.id.textView);
         delete = findViewById(R.id.delete);
 
-        delete.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-                showDialogMessage();
-
-            }
-        });
+        delete.setOnClickListener(v -> showDialogMessage());
     }
 
     private void showDialogMessage() {

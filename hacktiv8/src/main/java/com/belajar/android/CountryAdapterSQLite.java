@@ -1,27 +1,21 @@
 package com.belajar.android;
 
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class CountryAdapterSQLite extends RecyclerView.Adapter<CountryAdapterSQLite.ViewHolder> {
 
-    private Context context;
+    private final List<CountrySQLite> countrySQLiteList;
 
-    private List<CountrySQLite> countrySQLiteList = new ArrayList<>();
-
-    public CountryAdapterSQLite(Context context, List<CountrySQLite> countrySQLiteList, EditTextListener editTextListener, RemoveTextListener removeTextListener) {
-        this.context = context;
+    public CountryAdapterSQLite(List<CountrySQLite> countrySQLiteList, EditTextListener editTextListener, RemoveTextListener removeTextListener) {
         this.countrySQLiteList = countrySQLiteList;
         this.editTextListener = editTextListener;
         this.removeTextListener = removeTextListener;
@@ -52,11 +46,9 @@ public class CountryAdapterSQLite extends RecyclerView.Adapter<CountryAdapterSQL
 
     public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
-        private TextView countryIdView;
-        private TextView countryNameView;
-        private TextView countryPopulationView;
-        private ImageView editButton;
-        private ImageView removeButton;
+        private final TextView countryIdView;
+        private final TextView countryNameView;
+        private final TextView countryPopulationView;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -65,8 +57,8 @@ public class CountryAdapterSQLite extends RecyclerView.Adapter<CountryAdapterSQL
             countryNameView = itemView.findViewById(R.id.countryName);
             countryPopulationView = itemView.findViewById(R.id.population);
 
-            editButton = itemView.findViewById(R.id.editIcon);
-            removeButton = itemView.findViewById(R.id.removeIcon);
+            ImageView editButton = itemView.findViewById(R.id.editIcon);
+            ImageView removeButton = itemView.findViewById(R.id.removeIcon);
 
             editButton.setOnClickListener(this);
             removeButton.setOnClickListener(this);
@@ -84,8 +76,8 @@ public class CountryAdapterSQLite extends RecyclerView.Adapter<CountryAdapterSQL
         }
     }
 
-    private EditTextListener editTextListener;
-    private RemoveTextListener removeTextListener;
+    private final EditTextListener editTextListener;
+    private final RemoveTextListener removeTextListener;
 
     public interface EditTextListener{
         void onEditTextClick(int position);

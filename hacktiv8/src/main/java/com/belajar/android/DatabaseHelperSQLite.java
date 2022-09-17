@@ -1,5 +1,6 @@
 package com.belajar.android;
 
+import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -52,7 +53,7 @@ public class DatabaseHelperSQLite extends SQLiteOpenHelper {
         String allCountry = "SELECT * FROM "+TABLE_COUNTRY;
 
         SQLiteDatabase db = this.getReadableDatabase();
-        Cursor cursor = db.rawQuery(allCountry, null);
+        @SuppressLint("Recycle") Cursor cursor = db.rawQuery(allCountry, null);
 
         if(cursor.moveToFirst()){
             do {
@@ -78,5 +79,23 @@ public class DatabaseHelperSQLite extends SQLiteOpenHelper {
         Log.i("DBHELPER", countrySQLite.getCountryName());
 
         db.insert(TABLE_COUNTRY,null,values);
+    }
+
+    void editCountry(CountrySQLite countrySQLite,int id){
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        ContentValues values = new ContentValues();
+        values.put(COUNTRY_NAME,countrySQLite.getCountryName());
+        values.put(POPULATION,countrySQLite.getPopulations());
+
+        db.execSQL("UPDATE "+TABLE_COUNTRY+" SET " +COUNTRY_NAME + "='"+countrySQLite.getCountryName()+"', "+
+                POPULATION+ "='"+countrySQLite.getPopulations()+
+                "' WHERE "+KEY_ID +"="+id);
+    }
+
+    void removeCountry(int id){
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        db.execSQL("DELETE FROM "+TABLE_COUNTRY+" WHERE "+KEY_ID +"="+id);
     }
 }
