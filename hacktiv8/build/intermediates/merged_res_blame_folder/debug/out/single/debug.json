@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_images_view.xml"
     },
     {
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_notification_test_main.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_notification_test_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_buttons.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_buttons.xml"
     },
@@ -216,6 +220,10 @@
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\madrid.png"
     },
     {
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_icon_notif.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/icon_notif.png"
+    },
+    {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_launcher_background.xml"
     },
@@ -226,10 +234,6 @@
     {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_buttonshape.xml.flat",
         "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\buttonshape.xml"
-    },
-    {
-        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_country_item.xml.flat",
-        "source": "com.belajar.android.hacktiv8-main-31:/layout/country_item.xml"
     },
     {
         "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\xml_data_extraction_rules.xml.flat",

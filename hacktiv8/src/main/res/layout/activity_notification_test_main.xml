@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="10dp"
+    tools:context=".NotificationTestMain">
+
+    <Button
+        android:id="@+id/SIMPLE_NOTIF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="#EBB2F4"
+        android:padding="6dp"
+        android:text="SIMPLE NOTIFICATION" />
+
+    <Button
+        android:id="@+id/BIGTEXTSTYLE_NOTIF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="#EBB2F4"
+        android:padding="6dp"
+        android:text="BIGTEXTSTYLE NOTIFICATION" />
+
+    <Button
+        android:id="@+id/BIGPICTURESTYLE_NOTIF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="#EBB2F4"
+        android:padding="6dp"
+        android:text="BIGPICTURESTYLE NOTIFICATION" />
+
+    <Button
+        android:id="@+id/INBOX_NOTIF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="#EBB2F4"
+        android:padding="6dp"
+        android:text="INBOXSTYLE NOTIFICATION" />
+
+    <Button
+        android:id="@+id/ACTION_NOTIF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="#EBB2F4"
+        android:padding="6dp"
+        android:text="ACTION NOTIFICATION" />
+</LinearLayout>

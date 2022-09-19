@@ -23,6 +23,23 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.DayNight" >
         <activity
+            android:name="com.belajar.android.NotificationTestMain"
+            android:exported="true" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <receiver
+            android:name="com.belajar.android.NotificationTestReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </receiver>
+        <!--  -->
+        <activity
             android:name="com.belajar.android.SQLiteMainActivity"
             android:exported="true" />
         <activity

@@ -20,6 +20,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_minus
 drawable ic_plus
+drawable icon_notif
 drawable ig
 drawable jupe
 drawable madrid
@@ -27,6 +28,11 @@ drawable mu
 drawable pool
 drawable psg
 drawable square
+id ACTION_NOTIF
+id BIGPICTURESTYLE_NOTIF
+id BIGTEXTSTYLE_NOTIF
+id INBOX_NOTIF
+id SIMPLE_NOTIF
 id alamat
 id button
 id button1
@@ -112,6 +118,7 @@ layout activity_intent_app2
 layout activity_layouts
 layout activity_main
 layout activity_main2
+layout activity_notification_test_main
 layout activity_radio_button
 layout activity_sqlite_main
 layout activity_text_views
