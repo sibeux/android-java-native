@@ -2636,6 +2636,8 @@ int id button4 0x7f0801f7
 int id button5 0x7f0801f8
 int id button6 0x7f0801f9
 int id buttonPanel 0x7f080062
+int id buttonStart 0x7f0801ff
+int id buttonStop 0x7f080200
 int id cache_measures 0x7f080063
 int id callMeasure 0x7f080064
 int id cancel_button 0x7f080065
@@ -2988,9 +2990,15 @@ int id textSpacerNoTitle 0x7f0801b4
 int id textStart 0x7f0801b5
 int id textTop 0x7f0801b6
 int id textView 0x7f0801b7
+int id textView1 0x7f080205
 int id textView2 0x7f0801f2
 int id textView3 0x7f0801fe
+int id textView4 0x7f080206
+int id textViewA 0x7f080201
+int id textViewB 0x7f080202
+int id textViewC 0x7f080203
 int id textViewCountryName 0x7f0801ed
+int id textViewD 0x7f080204
 int id textViewDetail 0x7f0801ee
 int id text_input_end_icon 0x7f0801b8
 int id text_input_error_icon 0x7f0801b9
@@ -3141,8 +3149,11 @@ int layout activity_grid_view 0x7f0b007f
 int layout activity_lifecycle 0x7f0b0084
 int layout activity_list_view 0x7f0b007c
 int layout activity_recycler_view 0x7f0b007d
+int layout activity_retrofit_library_main 0x7f0b0089
+int layout activity_retrofit_recycler_view 0x7f0b008a
 int layout activity_scroll_view 0x7f0b0081
 int layout activity_second 0x7f0b0085
+int layout activity_services 0x7f0b0088
 int layout activity_snackbar_message 0x7f0b0079
 int layout activity_spinner_buttons 0x7f0b0077
 int layout activity_toast_message 0x7f0b0078
@@ -3221,6 +3232,7 @@ int layout notification_template_custom_big 0x7f0b005f
 int layout notification_template_icon_group 0x7f0b0060
 int layout notification_template_part_chronometer 0x7f0b0061
 int layout notification_template_part_time 0x7f0b0062
+int layout recyclerview_layout_item 0x7f0b008b
 int layout select_dialog_item_material 0x7f0b0063
 int layout select_dialog_multichoice_material 0x7f0b0064
 int layout select_dialog_singlechoice_material 0x7f0b0065

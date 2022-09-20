@@ -3,6 +3,7 @@
     package="com.course.udemy">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
@@ -11,7 +12,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MyApplication">
+        android:theme="@style/Theme.MyApplication"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".RetrofitRecyclerView"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".RetrofitLibraryMain"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity
             android:name=".Services"
             android:exported="true">
@@ -19,7 +35,9 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
         <service android:name=".ServicesExample" />
+
         <activity
             android:name=".FragmentLifecycle"
             android:exported="true" />

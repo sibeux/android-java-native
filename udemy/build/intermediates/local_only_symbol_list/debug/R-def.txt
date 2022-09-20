@@ -30,6 +30,8 @@ id button3
 id button4
 id button5
 id button6
+id buttonStart
+id buttonStop
 id cardView
 id countries
 id delete
@@ -45,9 +47,15 @@ id onOff
 id recyclerView
 id spinner
 id textView
+id textView1
 id textView2
 id textView3
+id textView4
+id textViewA
+id textViewB
+id textViewC
 id textViewCountryName
+id textViewD
 id textViewDetail
 id webview
 layout activity_application_lifecycle
@@ -58,8 +66,11 @@ layout activity_grid_view
 layout activity_lifecycle
 layout activity_list_view
 layout activity_recycler_view
+layout activity_retrofit_library_main
+layout activity_retrofit_recycler_view
 layout activity_scroll_view
 layout activity_second
+layout activity_services
 layout activity_snackbar_message
 layout activity_spinner_buttons
 layout activity_toast_message
@@ -68,6 +79,7 @@ layout activity_web_view
 layout card_design
 layout fragment_new
 layout grid_view_layout
+layout recyclerview_layout_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
