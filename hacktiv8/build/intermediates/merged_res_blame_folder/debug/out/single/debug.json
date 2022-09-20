@@ -1,246 +1,254 @@
 [
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_images_view.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_images_view.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_notification_test_main.xml.flat",
         "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_notification_test_main.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_buttons.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_buttons.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_mu.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\mu.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_celsi.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/celsi.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_hacktiv_sesi6_view.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_hacktiv_sesi6_view.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_jupe.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/jupe.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_background_processing.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_background_processing.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_layouts.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_layouts.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\xml\\backup_rules.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_hacktiv_layout_view.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_hacktiv_layout_view.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_retrofit_main.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_retrofit_main.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_arsenal.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/arsenal.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_background_services.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_background_services.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_radio_button.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_radio_button.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_city.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\city.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_background_processing.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_background_processing.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_madrid.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/madrid.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_club_item.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\club_item.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_mu.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/mu.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\menu_main_menu_scores.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\menu\\main_menu_scores.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_retrofit_recyclerview_layout_item.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/retrofit_recyclerview_layout_item.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_baseline_edit_24.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_baseline_edit_24.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_counter_homework.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_counter_homework.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_user_interaction.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_user_interaction.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_hacktiv_layout_view.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_hacktiv_layout_view.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_hacktiv_sesi6_view.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_hacktiv_sesi6_view.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_delightful_user_experiences.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_delightful_user_experiences.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_check_button.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_check_button.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.belajar.android.hacktiv8-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_arsenal.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\arsenal.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_buttons.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_buttons.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_hacktiv_layout_view_relative.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_hacktiv_layout_view_relative.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_user_interaction2.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_user_interaction2.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ig.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ig.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_check_button.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_check_button.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_club_item.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/club_item.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_main2.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_main2.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_main2.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ig.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ig.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_images_view.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_images_view.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_form_country.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\form_country.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_hacktiv_sesi6.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_hacktiv_sesi6.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_square.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\square.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ic_minus.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ic_minus.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_fcb.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\fcb.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_user_interaction2.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_user_interaction2.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_radio_button.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_radio_button.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_intent_app2.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_intent_app2.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_sqlite_main.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_sqlite_main.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_city.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/city.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_hacktiv_layout_view_constraint.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_hacktiv_layout_view_constraint.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_plus.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_plus.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_edit_text.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_edit_text.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_jupe.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\jupe.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_delightful_user_experiences.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_delightful_user_experiences.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_country_item.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\country_item.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_fcb.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/fcb.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_baseline_remove_circle_outline_24.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_baseline_remove_circle_outline_24.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ic_plus.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ic_plus.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_psg.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\psg.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/menu_main_menu_scores.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/menu/main_menu_scores.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_counter_homework.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_counter_homework.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ic_baseline_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_intent_app2.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_intent_app2.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_pool.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\pool.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_hacktiv_layout_view_constraint.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_hacktiv_layout_view_constraint.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_intent_app.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_intent_app.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_background_services.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_background_services.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_celsi.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\celsi.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_text_views.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_text_views.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_form_country.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/form_country.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_hacktiv_sesi6.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_hacktiv_sesi6.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_intent_app.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_intent_app.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_buttonshape.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/buttonshape.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_psg.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/psg.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_edit_text.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_edit_text.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_ic_baseline_remove_circle_outline_24.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/ic_baseline_remove_circle_outline_24.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_minus.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_minus.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_madrid.png.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\madrid.png"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_icon_notif.png.flat",
         "source": "com.belajar.android.hacktiv8-main-31:/drawable/icon_notif.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_square.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/square.png"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_main.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_text_views.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_text_views.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\drawable_buttonshape.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\drawable\\buttonshape.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_sqlite_main.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_sqlite_main.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-merged_res-29:\\layout_activity_layouts.xml.flat",
-        "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\daemon\\7.3.3\\com.belajar.android.hacktiv8-main-31:\\layout\\activity_layouts.xml"
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_country_item.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/country_item.xml"
+    },
+    {
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_hacktiv_layout_view_relative.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_hacktiv_layout_view_relative.xml"
+    },
+    {
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/drawable_pool.png.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/drawable/pool.png"
+    },
+    {
+        "merged": "com.belajar.android.hacktiv8-merged_res-29:/layout_activity_user_interaction.xml.flat",
+        "source": "com.belajar.android.hacktiv8-main-31:/layout/activity_user_interaction.xml"
     }
 ]

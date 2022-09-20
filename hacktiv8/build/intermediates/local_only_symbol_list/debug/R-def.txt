@@ -84,8 +84,10 @@ id radioButtonRed
 id radioButtonYellow
 id radioFemale
 id radioMale
+id recyclerView
 id removeIcon
 id result
+id retrofit_constraint
 id save
 id saveButton
 id score1
@@ -95,10 +97,14 @@ id sub_txt
 id submit_area
 id textIntenApp2
 id textView
+id textViewEmail
+id textViewName
+id textViewPhone
 id title
 id umur
 id unclick
 id universitas
+id view
 id viewRegistrasi
 layout activity_background_processing
 layout activity_background_services
@@ -120,6 +126,7 @@ layout activity_main
 layout activity_main2
 layout activity_notification_test_main
 layout activity_radio_button
+layout activity_retrofit_main
 layout activity_sqlite_main
 layout activity_text_views
 layout activity_user_interaction
@@ -127,6 +134,7 @@ layout activity_user_interaction2
 layout club_item
 layout country_item
 layout form_country
+layout retrofit_recyclerview_layout_item
 menu main_menu_scores
 mipmap ic_launcher
 mipmap ic_launcher_round
