@@ -13,6 +13,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Services"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <service android:name=".ServicesExample" />
+        <activity
             android:name=".FragmentLifecycle"
             android:exported="true" />
         <activity
