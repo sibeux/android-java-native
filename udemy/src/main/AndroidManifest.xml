@@ -17,6 +17,13 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
+            android:name=".BroadcastReceiver"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".RetrofitRecyclerView"
             android:exported="true">
             <meta-data
