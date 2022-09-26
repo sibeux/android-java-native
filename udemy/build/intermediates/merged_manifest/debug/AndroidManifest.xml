@@ -24,6 +24,13 @@
         android:theme="@style/Theme.MyApplication"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.course.udemy.BroadcastReceiver"
+            android:exported="true" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.course.udemy.RetrofitRecyclerView"
             android:exported="true" >
             <meta-data

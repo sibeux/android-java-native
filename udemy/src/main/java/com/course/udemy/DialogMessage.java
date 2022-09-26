@@ -3,18 +3,16 @@ package com.course.udemy;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.DialogInterface;
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.ToggleButton;
 
 public class DialogMessage extends AppCompatActivity {
 
-    ImageView insta;
+    ImageView picture;
     TextView text;
     Button delete;
 
@@ -23,29 +21,22 @@ public class DialogMessage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dialog_message);
 
-        insta = findViewById(R.id.insta);
+        picture = findViewById(R.id.insta);
         text = findViewById(R.id.textView);
         delete = findViewById(R.id.delete);
 
         delete.setOnClickListener(v -> showDialogMessage());
     }
 
+    @SuppressLint("SetTextI18n")
     private void showDialogMessage() {
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(this);
         alertDialog.setTitle("Delete")
                 .setMessage("Do you want to delete text?")
-                .setNegativeButton("No", new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialog, int which) {
-                        dialog.cancel();
-                    }
-                })
-                .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialog, int which) {
-                        insta.setVisibility(View.INVISIBLE);
-                        text.setText("Image Deleted");
-                    }
+                .setNegativeButton("No", (dialog, which) -> dialog.cancel())
+                .setPositiveButton("Yes", (dialog, which) -> {
+                    picture.setVisibility(View.INVISIBLE);
+                    text.setText("Image Deleted");
                 }).show();
         alertDialog.create();
     }

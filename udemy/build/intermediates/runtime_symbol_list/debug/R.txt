@@ -3142,6 +3142,7 @@ int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
 int layout activity_application_lifecycle 0x7f0c001c
+int layout activity_broadcast_receiver 0x7f0c008c
 int layout activity_constraint_layout 0x7f0c001d
 int layout activity_dialog_message 0x7f0c001e
 int layout activity_fragment_lifecycle 0x7f0c001f

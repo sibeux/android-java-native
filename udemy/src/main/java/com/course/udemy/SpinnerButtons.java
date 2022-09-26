@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -14,7 +13,7 @@ import android.widget.ToggleButton;
 
 public class SpinnerButtons extends AppCompatActivity {
 
-    ImageView insta;
+    ImageView picture;
     TextView text;
     ToggleButton onOff;
     Spinner spinner;
@@ -25,7 +24,7 @@ public class SpinnerButtons extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_spinner_buttons);
 
-        insta = findViewById(R.id.insta);
+        picture = findViewById(R.id.insta);
         text = findViewById(R.id.textView);
         onOff = findViewById(R.id.onOff);
         spinner = findViewById(R.id.spinner);

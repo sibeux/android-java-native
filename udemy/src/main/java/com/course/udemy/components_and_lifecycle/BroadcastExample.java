@@ -13,7 +13,7 @@ public class BroadcastExample extends BroadcastReceiver {
 
         boolean isPlaneMode = intent.getBooleanExtra("state",false);
 
-        if (isPlaneMode == true){
+        if (isPlaneMode){
             Toast.makeText(context,"Device is in airplane mode",Toast.LENGTH_LONG).show();
         } else{
             Toast.makeText(context,"Device is not in airplane mode",Toast.LENGTH_LONG).show();

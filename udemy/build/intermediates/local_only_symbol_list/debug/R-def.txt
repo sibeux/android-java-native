@@ -59,6 +59,7 @@ id textViewD
 id textViewDetail
 id webview
 layout activity_application_lifecycle
+layout activity_broadcast_receiver
 layout activity_constraint_layout
 layout activity_dialog_message
 layout activity_fragment_lifecycle

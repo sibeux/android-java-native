@@ -3,8 +3,6 @@ package com.course.udemy;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.AdapterView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -25,10 +23,8 @@ public class GridView extends AppCompatActivity {
         GridAdapter adapter = new GridAdapter(this, text, image);
         gridView.setAdapter(adapter);
 
-        gridView.setOnItemClickListener((parent, view, position, id) -> {
-            Toast.makeText(getApplicationContext(), "You selected " + text.get(position),
-                    Toast.LENGTH_SHORT).show();
-        });
+        gridView.setOnItemClickListener((parent, view, position, id) -> Toast.makeText(getApplicationContext(), "You selected " + text.get(position),
+                Toast.LENGTH_SHORT).show());
     }
 
     public void fillArray(){

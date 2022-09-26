@@ -16,10 +16,10 @@ import java.util.ArrayList;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.CountryviewHolder>{
 
-    private ArrayList<String> countryNameList;
-    private  ArrayList<String> detailsList;
-    private  ArrayList<Integer> imageList;
-    private Context context;
+    private final ArrayList<String> countryNameList;
+    private final ArrayList<String> detailsList;
+    private final ArrayList<Integer> imageList;
+    private final Context context;
 
     public RecyclerAdapter(ArrayList<String> countryNameList, ArrayList<String> detailsList, ArrayList<Integer> imageList, Context context) {
         this.countryNameList = countryNameList;
@@ -63,9 +63,10 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.Countr
 
     public class CountryviewHolder extends RecyclerView.ViewHolder {
 
-        private TextView textViewCountryName, textViewdetails;
-        private ImageView imageView;
-        private CardView cardView;
+        private final TextView textViewCountryName;
+        private final TextView textViewdetails;
+        private final ImageView imageView;
+        private final CardView cardView;
 
         public CountryviewHolder(@NonNull View itemView) {
             super(itemView);
