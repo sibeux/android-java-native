@@ -2653,6 +2653,7 @@ id cancel
 id cancel_button
 id card_view
 id carryVelocity
+id cases
 id center
 id centerCrop
 id centerInside
@@ -2698,6 +2699,7 @@ id custom
 id customPanel
 id cut
 id date_picker_actions
+id deaths
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
@@ -2931,8 +2933,10 @@ id radioButtonYellow
 id radioFemale
 id radioMale
 id ratio
+id recovered
 id rectangles
 id recyclerView
+id recyclerViewCD
 id removeIcon
 id result
 id retrofit_constraint
@@ -3037,9 +3041,12 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textViewCases
+id textViewDeaths
 id textViewEmail
 id textViewName
 id textViewPhone
+id textViewRecovered
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3188,8 +3195,10 @@ layout abc_tooltip
 layout activity_background_processing
 layout activity_background_services
 layout activity_buttons
+layout activity_cdretrofit_main
 layout activity_check_button
 layout activity_counter_homework
+layout activity_covid_tracker_app_main
 layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
@@ -3212,6 +3221,7 @@ layout activity_user_interaction
 layout activity_user_interaction2
 layout club_item
 layout country_item
+layout covid_tracker_app_layout
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

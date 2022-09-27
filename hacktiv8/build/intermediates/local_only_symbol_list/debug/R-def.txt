@@ -46,12 +46,14 @@ id buttonDownload
 id buttonNewCountry
 id cancel
 id card_view
+id cases
 id click
 id club_list_rv
 id counter
 id countryName
 id countryNameInput
 id country_list_rv
+id deaths
 id decreaseTeam1
 id decreaseTeam2
 id editIcon
@@ -84,7 +86,9 @@ id radioButtonRed
 id radioButtonYellow
 id radioFemale
 id radioMale
+id recovered
 id recyclerView
+id recyclerViewCD
 id removeIcon
 id result
 id retrofit_constraint
@@ -97,9 +101,12 @@ id sub_txt
 id submit_area
 id textIntenApp2
 id textView
+id textViewCases
+id textViewDeaths
 id textViewEmail
 id textViewName
 id textViewPhone
+id textViewRecovered
 id title
 id umur
 id unclick
@@ -109,8 +116,10 @@ id viewRegistrasi
 layout activity_background_processing
 layout activity_background_services
 layout activity_buttons
+layout activity_cdretrofit_main
 layout activity_check_button
 layout activity_counter_homework
+layout activity_covid_tracker_app_main
 layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
@@ -133,6 +142,7 @@ layout activity_user_interaction
 layout activity_user_interaction2
 layout club_item
 layout country_item
+layout covid_tracker_app_layout
 layout form_country
 layout retrofit_recyclerview_layout_item
 menu main_menu_scores

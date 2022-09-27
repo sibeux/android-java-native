@@ -7,7 +7,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textViewCases"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
@@ -28,7 +28,7 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/textViewRecovered"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="18dp"
@@ -50,7 +50,7 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textViewDeaths"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="18dp"
