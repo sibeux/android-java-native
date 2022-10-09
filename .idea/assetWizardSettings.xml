@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../../../Nasrul%20Wahabi/AppData/Local/Android/Sdk/icons/material/materialicons/remove_circle_outline/baseline_remove_circle_outline_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../../../Nasrul%20Wahabi/AppData/Local/Android/Sdk/icons/material/materialicons/create/baseline_create_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,8 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="e31818" />
-                            <entry key="outputName" value="ic_baseline_remove_circle_outline_24" />
+                            <entry key="outputName" value="ic_baseline_create_24" />
                             <entry key="sourceFile" value="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native" />
                           </map>
                         </option>

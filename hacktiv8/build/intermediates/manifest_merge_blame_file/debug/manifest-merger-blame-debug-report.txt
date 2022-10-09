@@ -14,370 +14,573 @@
 11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:6:5-67
 11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:6:22-64
 12
-13    <application
-13-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:8:5-234:19
-14        android:allowBackup="true"
-14-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:9:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-16        android:dataExtractionRules="@xml/data_extraction_rules"
-16-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:10:9-65
-17        android:debuggable="true"
-18        android:fullBackupContent="@xml/backup_rules"
-18-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:11:9-54
-19        android:icon="@mipmap/ic_launcher"
-19-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:12:9-43
-20        android:label="@string/app_name"
-20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:13:9-41
-21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:14:9-54
-22        android:supportsRtl="true"
-22-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:15:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.AppCompat.DayNight"
-24-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:16:9-56
-25        android:usesCleartextTraffic="true" >
-25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:17:9-44
-26        <activity
-26-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:19:9-25:20
-27            android:name="com.belajar.android.CDRetrofitMain"
-27-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:20:13-43
-28            android:exported="true" >
-28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:21:13-36
-29            <meta-data
-29-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-24:36
-30                android:name="android.app.lib_name"
-30-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-52
-31                android:value="" />
-31-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:24:17-33
-32        </activity>
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:8:5-247:19
+21        android:allowBackup="true"
+21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a3aef3274c222e47595fbfeb9137a19e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:11:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:12:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:13:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:14:9-54
+29        android:supportsRtl="true"
+29-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:15:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.AppCompat.DayNight"
+31-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:16:9-56
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:17:9-44
 33        <activity
-33-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:26:9-32:20
-34            android:name="com.belajar.android.CovidTrackerAppMainActivity"
-34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:27:13-56
+33-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:19:9-31:20
+34            android:name="com.belajar.android.ToDoListApp"
+34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:20:13-40
 35            android:exported="true" >
-35-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-36
-36            <meta-data
-36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-24:36
-37                android:name="android.app.lib_name"
-37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-52
-38                android:value="" />
-38-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:24:17-33
-39        </activity>
-40        <activity
-40-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:33:9-39:20
-41            android:name="com.belajar.android.RetrofitMainActivity"
-41-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:34:13-49
-42            android:exported="true" >
-42-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:35:13-36
-43            <meta-data
-43-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-24:36
-44                android:name="android.app.lib_name"
-44-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-52
-45                android:value="" />
-45-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:24:17-33
-46        </activity>
-47        <activity
-47-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:40:9-46:20
-48            android:name="com.belajar.android.NotificationTestMain"
-48-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:41:13-49
-49            android:exported="true" >
-49-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:42:13-36
-50            <meta-data
-50-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-24:36
-51                android:name="android.app.lib_name"
-51-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-52
-52                android:value="" />
-52-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:24:17-33
-53        </activity>
-54
-55        <receiver
-55-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:48:9-54:20
-56            android:name="com.belajar.android.NotificationTestReceiver"
-56-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:49:13-53
-57            android:exported="true" >
-57-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:50:13-36
-58            <intent-filter>
-58-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:51:13-53:29
-59                <category android:name="android.intent.category.DEFAULT" />
-59-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:52:17-76
-59-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:52:27-73
-60            </intent-filter>
-61        </receiver> <!--  -->
-62        <activity
-62-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:55:9-57:39
-63            android:name="com.belajar.android.SQLiteMainActivity"
-63-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:56:13-47
-64            android:exported="true" />
-64-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:57:13-36
-65        <activity
-65-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:58:9-61:45
-66            android:name="com.belajar.android.BackgroundServices"
-66-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:59:13-47
-67            android:exported="false" />
-67-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:60:13-37
-68        <activity
-68-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:62:9-64:39
-69            android:name="com.belajar.android.BackgroundProcessing"
-69-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:63:13-49
-70            android:exported="true" />
-70-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:64:13-36
-71        <activity
-71-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:9-67:39
-72            android:name="com.belajar.android.DelightfulUserExperiences"
-72-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:66:13-54
-73            android:exported="true" />
-73-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:67:13-36
-74        <activity
-74-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:68:9-70:40
-75            android:name="com.belajar.android.UserInteraction2"
-75-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:69:13-45
-76            android:exported="false" />
-76-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:70:13-37
-77        <activity
-77-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:71:9-81:20
-78            android:name="com.belajar.android.UserInteraction"
-78-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:72:13-44
-79            android:exported="true" >
-79-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:73:13-36
-80
-81            <!-- <intent-filter> -->
-82            <!-- <action android:name="android.intent.action.MAIN" /> -->
-83
-84
-85            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-86            <!-- </intent-filter> -->
-87        </activity>
+35-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:21:13-36
+36            <intent-filter>
+36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-26:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-69
+37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:25:17-77
+39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:25:27-74
+40            </intent-filter>
+41
+42            <meta-data
+42-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+43                android:name="android.app.lib_name"
+43-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+44                android:value="" />
+44-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+45        </activity>
+46        <activity
+46-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:32:9-38:20
+47            android:name="com.belajar.android.CDRetrofitMain"
+47-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:33:13-43
+48            android:exported="true" >
+48-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:34:13-36
+49            <meta-data
+49-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+50                android:name="android.app.lib_name"
+50-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+51                android:value="" />
+51-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+52        </activity>
+53        <activity
+53-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:39:9-45:20
+54            android:name="com.belajar.android.CovidTrackerAppMainActivity"
+54-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:40:13-56
+55            android:exported="true" >
+55-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:41:13-36
+56            <meta-data
+56-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+57                android:name="android.app.lib_name"
+57-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+58                android:value="" />
+58-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+59        </activity>
+60        <activity
+60-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:46:9-52:20
+61            android:name="com.belajar.android.RetrofitMainActivity"
+61-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:47:13-49
+62            android:exported="true" >
+62-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:48:13-36
+63            <meta-data
+63-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+64                android:name="android.app.lib_name"
+64-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+65                android:value="" />
+65-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+66        </activity>
+67        <activity
+67-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:53:9-59:20
+68            android:name="com.belajar.android.NotificationTestMain"
+68-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:54:13-49
+69            android:exported="true" >
+69-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:55:13-36
+70            <meta-data
+70-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+71                android:name="android.app.lib_name"
+71-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+72                android:value="" />
+72-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+73        </activity>
+74
+75        <receiver
+75-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:61:9-67:20
+76            android:name="com.belajar.android.NotificationTestReceiver"
+76-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:62:13-53
+77            android:exported="true" >
+77-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:63:13-36
+78            <intent-filter>
+78-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:64:13-66:29
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:17-76
+79-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:27-73
+80            </intent-filter>
+81        </receiver> <!--  -->
+82        <activity
+82-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:68:9-70:39
+83            android:name="com.belajar.android.SQLiteMainActivity"
+83-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:69:13-47
+84            android:exported="true" />
+84-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:70:13-36
+85        <activity
+85-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:71:9-74:45
+86            android:name="com.belajar.android.BackgroundServices"
+86-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:72:13-47
+87            android:exported="false" />
+87-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:73:13-37
 88        <activity
-88-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:82:9-92:20
-89            android:name="com.belajar.android.CounterHomework"
-89-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:83:13-44
-90            android:exported="true" >
-90-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:84:13-36
-91
-92            <!-- <intent-filter> -->
-93            <!-- <action android:name="android.intent.action.MAIN" /> -->
-94
-95
-96            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-97            <!-- </intent-filter> -->
-98        </activity>
-99        <activity
-99-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:93:9-103:20
-100            android:name="com.belajar.android.HacktivLayoutViewConstraint"
-100-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:94:13-56
-101            android:exported="true" >
-101-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:95:13-36
-102
-103            <!-- <intent-filter> -->
-104            <!-- <action android:name="android.intent.action.MAIN" /> -->
-105            <!--  -->
-106            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-107            <!--  -->
-108            <!-- </intent-filter> -->
-109        </activity>
-110        <activity
-110-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:104:9-114:20
-111            android:name="com.belajar.android.HacktivLayoutViewRelative"
-111-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:105:13-54
-112            android:exported="true" >
-112-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:106:13-36
-113
-114            <!-- <intent-filter> -->
-115            <!-- <action android:name="android.intent.action.MAIN" /> -->
-116
-117
-118            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-119            <!-- </intent-filter> -->
-120        </activity>
-121        <activity
-121-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:115:9-125:20
-122            android:name="com.belajar.android.HacktivLayoutViewLinear"
-122-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:116:13-52
-123            android:exported="true" >
-123-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:117:13-36
-124
-125            <!-- <intent-filter> -->
-126            <!-- <action android:name="android.intent.action.MAIN" /> -->
-127
-128
-129            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-130            <!-- </intent-filter> -->
-131        </activity>
-132        <activity
-132-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:126:9-128:39
-133            android:name="com.belajar.android.HacktivSesi6_view"
-133-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:127:13-46
-134            android:exported="true" />
-134-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:128:13-36
-135        <activity
-135-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:129:9-139:20
-136            android:name="com.belajar.android.HacktivSesi6_main"
-136-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:130:13-46
-137            android:exported="true" >
-137-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:131:13-36
-138
-139            <!-- <intent-filter> -->
-140            <!-- <action android:name="android.intent.action.MAIN" /> -->
-141
-142
-143            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-144            <!-- </intent-filter> -->
-145        </activity>
-146        <activity
-146-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:140:9-142:40
-147            android:name="com.belajar.android.MainActivity"
-147-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:141:13-41
-148            android:exported="false" />
-148-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:142:13-37
-149        <activity
-149-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:143:9-145:39
-150            android:name="com.belajar.android.IntentApp2"
-150-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:144:13-39
-151            android:exported="true" />
-151-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:145:13-36
+88-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:75:9-77:39
+89            android:name="com.belajar.android.BackgroundProcessing"
+89-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:76:13-49
+90            android:exported="true" />
+90-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:77:13-36
+91        <activity
+91-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:78:9-80:39
+92            android:name="com.belajar.android.DelightfulUserExperiences"
+92-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:79:13-54
+93            android:exported="true" />
+93-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:80:13-36
+94        <activity
+94-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:81:9-83:40
+95            android:name="com.belajar.android.UserInteraction2"
+95-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:82:13-45
+96            android:exported="false" />
+96-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:83:13-37
+97        <activity
+97-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:84:9-94:20
+98            android:name="com.belajar.android.UserInteraction"
+98-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:85:13-44
+99            android:exported="true" >
+99-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:86:13-36
+100
+101            <!-- <intent-filter> -->
+102            <!-- <action android:name="android.intent.action.MAIN" /> -->
+103
+104
+105            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+106            <!-- </intent-filter> -->
+107        </activity>
+108        <activity
+108-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:95:9-105:20
+109            android:name="com.belajar.android.CounterHomework"
+109-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:96:13-44
+110            android:exported="true" >
+110-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:97:13-36
+111
+112            <!-- <intent-filter> -->
+113            <!-- <action android:name="android.intent.action.MAIN" /> -->
+114
+115
+116            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+117            <!-- </intent-filter> -->
+118        </activity>
+119        <activity
+119-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:106:9-116:20
+120            android:name="com.belajar.android.HacktivLayoutViewConstraint"
+120-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:107:13-56
+121            android:exported="true" >
+121-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:108:13-36
+122
+123            <!-- <intent-filter> -->
+124            <!-- <action android:name="android.intent.action.MAIN" /> -->
+125            <!--  -->
+126            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+127            <!--  -->
+128            <!-- </intent-filter> -->
+129        </activity>
+130        <activity
+130-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:117:9-127:20
+131            android:name="com.belajar.android.HacktivLayoutViewRelative"
+131-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:118:13-54
+132            android:exported="true" >
+132-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:119:13-36
+133
+134            <!-- <intent-filter> -->
+135            <!-- <action android:name="android.intent.action.MAIN" /> -->
+136
+137
+138            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+139            <!-- </intent-filter> -->
+140        </activity>
+141        <activity
+141-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:128:9-138:20
+142            android:name="com.belajar.android.HacktivLayoutViewLinear"
+142-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:129:13-52
+143            android:exported="true" >
+143-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:130:13-36
+144
+145            <!-- <intent-filter> -->
+146            <!-- <action android:name="android.intent.action.MAIN" /> -->
+147
+148
+149            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+150            <!-- </intent-filter> -->
+151        </activity>
 152        <activity
-152-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:146:9-156:20
-153            android:name="com.belajar.android.IntentApp"
-153-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:147:13-38
-154            android:exported="true" >
-154-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:148:13-36
-155
-156            <!-- <intent-filter> -->
-157            <!-- <action android:name="android.intent.action.MAIN" /> -->
+152-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:139:9-141:39
+153            android:name="com.belajar.android.HacktivSesi6_view"
+153-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:140:13-46
+154            android:exported="true" />
+154-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:141:13-36
+155        <activity
+155-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:142:9-152:20
+156            android:name="com.belajar.android.HacktivSesi6_main"
+156-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:143:13-46
+157            android:exported="true" >
+157-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:144:13-36
 158
-159
-160            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-161            <!-- </intent-filter> -->
-162        </activity>
-163        <activity
-163-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:157:9-167:20
-164            android:name="com.belajar.android.RadioButtons"
-164-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:158:13-41
-165            android:exported="true" >
-165-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:159:13-36
-166
-167            <!-- <intent-filter> -->
-168            <!-- <action android:name="android.intent.action.MAIN" /> -->
-169
-170
-171            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-172            <!-- </intent-filter> -->
-173        </activity>
-174        <activity
-174-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:168:9-178:20
-175            android:name="com.belajar.android.CheckButton"
-175-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:169:13-40
-176            android:exported="true" >
-176-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:170:13-36
-177
-178            <!-- <intent-filter> -->
-179            <!-- <action android:name="android.intent.action.MAIN" /> -->
-180
-181
-182            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-183            <!-- </intent-filter> -->
-184        </activity>
-185        <activity
-185-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:179:9-189:20
-186            android:name="com.belajar.android.ImagesView"
-186-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:180:13-39
-187            android:exported="true" >
-187-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:181:13-36
-188
-189            <!-- <intent-filter> -->
-190            <!-- <action android:name="android.intent.action.MAIN" /> -->
-191
-192
-193            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-194            <!-- </intent-filter> -->
-195        </activity>
-196        <activity
-196-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:190:9-200:20
-197            android:name="com.belajar.android.EditText"
-197-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:191:13-37
-198            android:exported="true" >
-198-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:192:13-36
-199
-200            <!-- <intent-filter> -->
-201            <!-- <action android:name="android.intent.action.MAIN" /> -->
-202
-203
-204            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-205            <!-- </intent-filter> -->
-206        </activity>
-207        <activity
-207-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:201:9-211:20
-208            android:name="com.belajar.android.Buttons"
-208-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:202:13-36
-209            android:exported="true" >
-209-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:203:13-36
-210
-211            <!-- <intent-filter> -->
-212            <!-- <action android:name="android.intent.action.MAIN" /> -->
-213
-214
-215            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-216            <!-- </intent-filter> -->
-217        </activity>
-218        <activity
-218-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:212:9-222:20
-219            android:name="com.belajar.android.TextViews"
-219-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:213:13-38
-220            android:exported="true" >
-220-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:214:13-36
-221
-222            <!-- <intent-filter> -->
-223            <!-- <action android:name="android.intent.action.MAIN" /> -->
-224
-225
-226            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-227            <!-- </intent-filter> -->
-228        </activity>
-229        <activity
-229-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:223:9-233:20
-230            android:name="com.belajar.android.Layouts"
-230-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:224:13-36
-231            android:exported="true" >
-231-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:225:13-36
-232
-233            <!-- <intent-filter> -->
-234            <!-- <action android:name="android.intent.action.MAIN" /> -->
-235
-236
-237            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-238            <!-- </intent-filter> -->
-239        </activity>
-240
-241        <provider
-241-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f247a8428758363ad40e9cad992214c1\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
-242            android:name="com.squareup.picasso.PicassoProvider"
-242-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f247a8428758363ad40e9cad992214c1\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
-243            android:authorities="com.belajar.android.com.squareup.picasso"
-243-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f247a8428758363ad40e9cad992214c1\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
-244            android:exported="false" />
-244-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f247a8428758363ad40e9cad992214c1\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
-245        <provider
-245-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-246            android:name="androidx.startup.InitializationProvider"
-246-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-247            android:authorities="com.belajar.android.androidx-startup"
-247-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-248            android:exported="false" >
-248-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-249            <meta-data
-249-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-250                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-250-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-251                android:value="androidx.startup" />
-251-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-252            <meta-data
-252-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-253                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-253-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-254                android:value="androidx.startup" />
-254-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-255        </provider>
-256    </application>
-257
-258</manifest>
+159            <!-- <intent-filter> -->
+160            <!-- <action android:name="android.intent.action.MAIN" /> -->
+161
+162
+163            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+164            <!-- </intent-filter> -->
+165        </activity>
+166        <activity
+166-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:153:9-155:40
+167            android:name="com.belajar.android.MainActivity"
+167-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:154:13-41
+168            android:exported="false" />
+168-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:155:13-37
+169        <activity
+169-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:156:9-158:39
+170            android:name="com.belajar.android.IntentApp2"
+170-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:157:13-39
+171            android:exported="true" />
+171-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:158:13-36
+172        <activity
+172-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:159:9-169:20
+173            android:name="com.belajar.android.IntentApp"
+173-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:160:13-38
+174            android:exported="true" >
+174-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:161:13-36
+175
+176            <!-- <intent-filter> -->
+177            <!-- <action android:name="android.intent.action.MAIN" /> -->
+178
+179
+180            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+181            <!-- </intent-filter> -->
+182        </activity>
+183        <activity
+183-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:170:9-180:20
+184            android:name="com.belajar.android.RadioButtons"
+184-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:171:13-41
+185            android:exported="true" >
+185-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:172:13-36
+186
+187            <!-- <intent-filter> -->
+188            <!-- <action android:name="android.intent.action.MAIN" /> -->
+189
+190
+191            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+192            <!-- </intent-filter> -->
+193        </activity>
+194        <activity
+194-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:181:9-191:20
+195            android:name="com.belajar.android.CheckButton"
+195-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:182:13-40
+196            android:exported="true" >
+196-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:183:13-36
+197
+198            <!-- <intent-filter> -->
+199            <!-- <action android:name="android.intent.action.MAIN" /> -->
+200
+201
+202            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+203            <!-- </intent-filter> -->
+204        </activity>
+205        <activity
+205-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:192:9-202:20
+206            android:name="com.belajar.android.ImagesView"
+206-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:193:13-39
+207            android:exported="true" >
+207-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:194:13-36
+208
+209            <!-- <intent-filter> -->
+210            <!-- <action android:name="android.intent.action.MAIN" /> -->
+211
+212
+213            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+214            <!-- </intent-filter> -->
+215        </activity>
+216        <activity
+216-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:203:9-213:20
+217            android:name="com.belajar.android.EditText"
+217-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:204:13-37
+218            android:exported="true" >
+218-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:205:13-36
+219
+220            <!-- <intent-filter> -->
+221            <!-- <action android:name="android.intent.action.MAIN" /> -->
+222
+223
+224            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+225            <!-- </intent-filter> -->
+226        </activity>
+227        <activity
+227-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:214:9-224:20
+228            android:name="com.belajar.android.Buttons"
+228-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:215:13-36
+229            android:exported="true" >
+229-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:216:13-36
+230
+231            <!-- <intent-filter> -->
+232            <!-- <action android:name="android.intent.action.MAIN" /> -->
+233
+234
+235            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+236            <!-- </intent-filter> -->
+237        </activity>
+238        <activity
+238-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:225:9-235:20
+239            android:name="com.belajar.android.TextViews"
+239-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:226:13-38
+240            android:exported="true" >
+240-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:227:13-36
+241
+242            <!-- <intent-filter> -->
+243            <!-- <action android:name="android.intent.action.MAIN" /> -->
+244
+245
+246            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+247            <!-- </intent-filter> -->
+248        </activity>
+249        <activity
+249-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:236:9-246:20
+250            android:name="com.belajar.android.Layouts"
+250-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:237:13-36
+251            android:exported="true" >
+251-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:238:13-36
+252
+253            <!-- <intent-filter> -->
+254            <!-- <action android:name="android.intent.action.MAIN" /> -->
+255
+256
+257            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+258            <!-- </intent-filter> -->
+259        </activity>
+260
+261        <service
+261-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:29:9-35:19
+262            android:name="com.google.firebase.components.ComponentDiscoveryService"
+262-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:30:13-84
+263            android:directBootAware="true"
+263-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:35:13-43
+264            android:exported="false" >
+264-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:31:13-37
+265            <meta-data
+265-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:32:13-34:85
+266                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+266-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:33:17-109
+267                android:value="com.google.firebase.components.ComponentRegistrar" />
+267-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:34:17-82
+268            <meta-data
+268-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
+269                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+269-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
+270                android:value="com.google.firebase.components.ComponentRegistrar" />
+270-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
+271            <meta-data
+271-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:31:13-33:85
+272                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+272-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:32:17-139
+273                android:value="com.google.firebase.components.ComponentRegistrar" />
+273-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:33:17-82
+274            <meta-data
+274-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:18:13-20:85
+275                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+275-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:19:17-127
+276                android:value="com.google.firebase.components.ComponentRegistrar" />
+276-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:20:17-82
+277        </service>
+278
+279        <provider
+279-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+280            android:name="com.squareup.picasso.PicassoProvider"
+280-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+281            android:authorities="com.belajar.android.com.squareup.picasso"
+281-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+282            android:exported="false" />
+282-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+283
+284        <activity
+284-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
+285            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+285-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
+286            android:excludeFromRecents="true"
+286-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
+287            android:exported="true"
+287-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
+288            android:launchMode="singleTask"
+288-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
+289            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+289-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
+290            <intent-filter>
+290-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
+291                <action android:name="android.intent.action.VIEW" />
+291-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+291-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+292
+293                <category android:name="android.intent.category.DEFAULT" />
+293-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:17-76
+293-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:27-73
+294                <category android:name="android.intent.category.BROWSABLE" />
+294-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+294-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+295
+296                <data
+296-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+297                    android:host="firebase.auth"
+297-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+298                    android:path="/"
+298-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+299                    android:scheme="genericidp" />
+299-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+300            </intent-filter>
+301        </activity>
+302        <activity
+302-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
+303            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+303-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
+304            android:excludeFromRecents="true"
+304-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
+305            android:exported="true"
+305-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
+306            android:launchMode="singleTask"
+306-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
+307            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+307-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
+308            <intent-filter>
+308-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
+309                <action android:name="android.intent.action.VIEW" />
+309-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+309-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+310
+311                <category android:name="android.intent.category.DEFAULT" />
+311-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:17-76
+311-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:27-73
+312                <category android:name="android.intent.category.BROWSABLE" />
+312-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+312-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+313
+314                <data
+314-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+315                    android:host="firebase.auth"
+315-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+316                    android:path="/"
+316-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+317                    android:scheme="recaptcha" />
+317-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+318            </intent-filter>
+319        </activity>
+320
+321        <provider
+321-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
+322            android:name="com.google.firebase.provider.FirebaseInitProvider"
+322-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:27:13-77
+323            android:authorities="com.belajar.android.firebaseinitprovider"
+323-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:28:13-72
+324            android:directBootAware="true"
+324-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:29:13-43
+325            android:exported="false"
+325-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:30:13-37
+326            android:initOrder="100" />
+326-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:31:13-36
+327
+328        <activity
+328-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+329            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+329-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+330            android:exported="false"
+330-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+331            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+331-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+332
+333        <receiver
+333-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:29:9-33:20
+334            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+334-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:30:13-85
+335            android:enabled="true"
+335-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:31:13-35
+336            android:exported="false" >
+336-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:32:13-37
+337        </receiver>
+338
+339        <service
+339-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:35:9-38:40
+340            android:name="com.google.android.gms.measurement.AppMeasurementService"
+340-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:36:13-84
+341            android:enabled="true"
+341-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:37:13-35
+342            android:exported="false" />
+342-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:38:13-37
+343        <service
+343-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:39:9-43:72
+344            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+344-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:40:13-87
+345            android:enabled="true"
+345-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:41:13-35
+346            android:exported="false"
+346-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:42:13-37
+347            android:permission="android.permission.BIND_JOB_SERVICE" />
+347-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:43:13-69
+348
+349        <meta-data
+349-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+350            android:name="com.google.android.gms.version"
+350-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+351            android:value="@integer/google_play_services_version" />
+351-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+352
+353        <provider
+353-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+354            android:name="androidx.startup.InitializationProvider"
+354-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+355            android:authorities="com.belajar.android.androidx-startup"
+355-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+356            android:exported="false" >
+356-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+357            <meta-data
+357-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+358                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+358-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+359                android:value="androidx.startup" />
+359-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+360            <meta-data
+360-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+361                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+361-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+362                android:value="androidx.startup" />
+362-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+363        </provider>
+364    </application>
+365
+366</manifest>

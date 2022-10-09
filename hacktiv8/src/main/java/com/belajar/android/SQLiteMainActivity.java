@@ -13,7 +13,8 @@ import android.widget.Toast;
 
 import java.util.List;
 
-public class SQLiteMainActivity extends AppCompatActivity implements View.OnClickListener,CountryAdapterSQLite.EditTextListener, CountryAdapterSQLite.RemoveTextListener{
+public class SQLiteMainActivity extends AppCompatActivity implements View.OnClickListener,
+        CountryAdapterSQLite.EditTextListener, CountryAdapterSQLite.RemoveTextListener{
 
     RecyclerView recyclerView;
     Button addButton;
