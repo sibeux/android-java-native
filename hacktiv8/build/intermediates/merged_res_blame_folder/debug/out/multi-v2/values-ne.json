@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-32:/values-ne/values-ne.xml",
+            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-34:/values-ne/values-ne.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\4f36281d46ee8373ea89445f988a58a6\\transformed\\play-services-base-18.0.1\\res\\values-ne\\values.xml",
+                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\418b9b38780225f4c9b9b437c64f6e06\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4454",
+                        "endColumns": "163",
+                        "endOffsets": "4613"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\c950be1d1030546b81e10f67942b09ef\\transformed\\jetified-play-services-base-18.0.1\\res\\values-ne\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -54,23 +71,6 @@
                         "endLines": "5,33,34,35,36,56,57,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108",
                         "endColumns": "12,81,101,109,86,65,95,65,60,104,71,57,73,61,53,112,59,60,58,77,123,80,84,105,80,82,82,66,65,76,78,87,68,75,80,67,90,77,92,96,73,78,97,59,65,87,87,61,67,62,104,117,94,119,83",
                         "endOffsets": "262,3104,3206,3316,3403,5907,6003,6403,6464,6569,6641,6699,6773,6835,6889,7002,7062,7123,7182,7260,7384,7465,7550,7656,7737,7820,7903,7970,8036,8113,8192,8280,8349,8425,8506,8574,8665,8743,8836,8933,9007,9086,9184,9244,9310,9398,9486,9548,9616,9679,9784,9902,9997,10117,10201"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\6386fcf57f58045ac147a5ebc907797a\\transformed\\play-services-basement-18.1.0\\res\\values-ne\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "159",
-                        "endOffsets": "354"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4454",
-                        "endColumns": "163",
-                        "endOffsets": "4613"
                     }
                 },
                 {

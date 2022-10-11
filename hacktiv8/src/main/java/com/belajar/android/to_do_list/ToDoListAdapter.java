@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ToDoListAdapter extends RecyclerView.Adapter<ToDoListAdapter.ViewHolder> {
+
     private List<ListModuleClass> moduleClassList;
     Context context;
 

@@ -17,67 +17,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="retrofit covid tracker tanpa menggunakan list DONE">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_18_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_18_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_18_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_18_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_annotations_16_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_8_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_1_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_21_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_19_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/build/generated/res/google-services/debug/values/values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/libs/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/libs/protobuf-java-3.19.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ToDoListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/to_do_list/DatabaseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/to_do_list/ListModuleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/to_do_list/ToDoListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_add_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_create_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_crop_square_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_done_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_more_vert_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_to_do_list_app.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/to_do_list_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/user_input_dialog_box.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/menu/main_menu_to_do_list.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/menu/menu_item_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/gc.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_amitshekhariitbhu_Fast_Android_Networking_android_networking_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/DatabaseApiAddActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/DatabaseApiEditActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/DatabaseApiMainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/StudentRVAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/deleteSiswa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/getData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/koneksi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/tambahSiswa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/database/api/updateSiswa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/ic_baseline_local_activity_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/drawable/todolist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_database_api_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_database_api_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/activity_database_api_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/student_rv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/menu/menu_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/menu/menutambah.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-anydpi-v26/ic_todolist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-anydpi-v26/ic_todolist_round.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
@@ -90,118 +51,131 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_5_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_5_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_5_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_4_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_4_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_5_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_5_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_5_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_5_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_5_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_2_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_18_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_18_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_18_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_18_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_18_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_18_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_8_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_1_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_1_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_21_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_21_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_6_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_19_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_19_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_8_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_3_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_3_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.hacktiv8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.hacktiv8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/06Wmvqn5FaDVk3AzFsRKB+a9Q7w=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0rVgEdhvwH+mqGazEmwEPQ0caZk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/439ti38FNcVIZbmIMl3_RxKcbfA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5Mswzq_oQAQaGS+bximKOA9Tf8o=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8fFHyewgeM9D2MbOkcAyFSj5iHU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AwiFxFlUp2tJ6J4PWm60D0nHxgY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BXhh7YqdQb_vEaGoAZw2_vcdOgU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DBC_+ZExZgJbln6N+LW5CuUgAuY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+VtckwxrBV5M5wz2NOLCoIzn3wU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+VtckwxrBV5M5wz2NOLCoIzn3wU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2fRBIPgAcskBF_coLT7m_L9PlMo=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2fRBIPgAcskBF_coLT7m_L9PlMo=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3Y2DS4v1LGnAjFPdRloeuvjVS7g=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3Y2DS4v1LGnAjFPdRloeuvjVS7g=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4Wz_HpVIBc5JfXNKze2QVS7lhlE=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4Wz_HpVIBc5JfXNKze2QVS7lhlE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6V4rFXq7SUZFIRhHVTBYvibL1WU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6V4rFXq7SUZFIRhHVTBYvibL1WU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6z+VXhQw7+S0qwLWfRMI6SBXOT4=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6z+VXhQw7+S0qwLWfRMI6SBXOT4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/877k1cU5HWw20yo1MDHRSzV7DsI=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/877k1cU5HWw20yo1MDHRSzV7DsI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8CsYxXN1_WgUwE5AdXJv0GxaKIw=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8CsYxXN1_WgUwE5AdXJv0GxaKIw=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8caXJTbCOnqxFM99v_D3h6IvGlA=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8caXJTbCOnqxFM99v_D3h6IvGlA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9gZsnqnOXXL95xddNrVUs2RfoIg=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9gZsnqnOXXL95xddNrVUs2RfoIg=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9hCdtC6zAZs6Izr1UP66YH0SdYM=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9hCdtC6zAZs6Izr1UP66YH0SdYM=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AXiAQ0UCbQKwJgjD2_5JOzrDSHQ=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AXiAQ0UCbQKwJgjD2_5JOzrDSHQ=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BNl67UPpWvnB+2EQGUKjo6NFeK4=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BNl67UPpWvnB+2EQGUKjo6NFeK4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BS5pxJ2XLX+IDGi0ZMBtM5Uo6Do=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BS5pxJ2XLX+IDGi0ZMBtM5Uo6Do=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CPlXEtaexzFXf2H7snClx8xkxvY=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CPlXEtaexzFXf2H7snClx8xkxvY=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ENAdp3or1hz_zNc_OANIVIV+998=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ENAdp3or1hz_zNc_OANIVIV+998=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Er1T9Aodg50kZBhjb_4Ryvh9LT0=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Er1T9Aodg50kZBhjb_4Ryvh9LT0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FHRq5RYz48D0E0e_Sb6pJr1hI3w=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FHRq5RYz48D0E0e_Sb6pJr1hI3w=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FIcWbb+c8tfgazMbb1hmrBtpAs4=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FIcWbb+c8tfgazMbb1hmrBtpAs4=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FIlUfueAUdIXfAMO5h9qTwV1nfA=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FIlUfueAUdIXfAMO5h9qTwV1nfA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GlbtcUI1yuehP_0WqJFic6AxmJo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/J4TTl29WdttCFFLgOjlqyMBFJUY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JTAPspK6Rz+P_dkMi7hmw9alVTY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/L9jPq8hduEroTmjQGXVljS3QAT0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OYJVZrBBG5AMHgA39yR1q9hstgo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QfUvMnjHDJ8g9lc6NZh9t9k1R0w=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Rja6Vv+8Bo8+rmxniQEMIv8kccA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SwxvDOi03z2jYJ9vPHLYNuaLvqU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U4Ly3P0n_aZtDzZTVBPzBdQHZX0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FKdEIR5I2dJnVb418EeVEgYM+yU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FKdEIR5I2dJnVb418EeVEgYM+yU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gb0kkhT_zxbH+Xb0KO+SMI+8sS8=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gb0kkhT_zxbH+Xb0KO+SMI+8sS8=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hz+Dy+wdnf_mDg5IJUUNGl6+yLs=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hz+Dy+wdnf_mDg5IJUUNGl6+yLs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IOCHs5ECxW7pt467XHDkxUyv9kY=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IOCHs5ECxW7pt467XHDkxUyv9kY=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ii+87HY0wYtTLL0XvSCg9vzhqps=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ii+87HY0wYtTLL0XvSCg9vzhqps=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M4UHhnXnrUsIKf1zJMxflMy81rk=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M4UHhnXnrUsIKf1zJMxflMy81rk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OB8oCsl3IHJfRg1j20ViZlvZb84=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OB8oCsl3IHJfRg1j20ViZlvZb84=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OlAD6yBqvxoqA16c604adkPZvE0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RH7Djv9cNKRNL8DAKzLP2XRxWp4=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RH7Djv9cNKRNL8DAKzLP2XRxWp4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SumHcwNL51tTRdMGfEFKvpLawQA=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SumHcwNL51tTRdMGfEFKvpLawQA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/T8nvrQvQEh89_yU6_VkTFv+3wYA=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/T8nvrQvQEh89_yU6_VkTFv+3wYA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TcEY48BcRsAN3FGXUgcOgCZm9jQ=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TcEY48BcRsAN3FGXUgcOgCZm9jQ=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U9otVrwSON48PpBTZSBsmCEmfag=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U9otVrwSON48PpBTZSBsmCEmfag=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UN895ONBSKSLtzFMi7I_pO40nMs=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UN895ONBSKSLtzFMi7I_pO40nMs=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WSDdgAuQtmcw4x_98EIECCz6XwU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XjbRzUEViLoUbX7n6CJPj85JA2A=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Yb4hJVot+OmRnnlEtBN0cnvezIk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YwlGAqTb2aHBiNMWA6spQSlv_ZQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/V3hDk+YAvThIFRXIQ3XXdUEoDxA=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/V3hDk+YAvThIFRXIQ3XXdUEoDxA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WNKv+hB_LPiOA0KJunbnewlz410=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WNKv+hB_LPiOA0KJunbnewlz410=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XyyUhnTe4rlXxEr2sbHfk0zBmRU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XyyUhnTe4rlXxEr2sbHfk0zBmRU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YJndKvL+tlfIjRJ0iUFZP1GZczU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YJndKvL+tlfIjRJ0iUFZP1GZczU=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZmSEaj137QLwohpS7QpN+lpTMkw=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZmSEaj137QLwohpS7QpN+lpTMkw=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_Q50+VGRbYPC2X9ckoMH4SuQcOo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aDTBY8MDTGeXWPrXtl8H+XqivSE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bO2DHCWkoI3tJBsUvxIgtk66Pzg=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bkhyI+T_LYBIwlDrdLvEbcvsFvU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cT5L1w+nk5gJnSakmAKsMULQxM4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dnz2suA9RAcNPGBDFHyzVzt+NbI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/epIV2GWLamLWFiPt_Ky1D0O33ys=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fMYA0bW7TMC3JQxiov9yO468cIw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gbYeTFKc0Tx4wkZn5vls+baV9fI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ghFTML8HnsLupsFMDW7fQY4XRwE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hG32IUzGSgAbbvnxx88iMltyoi8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cdfb7qgdodYRdr7f2q6nfZmDA5Q=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cdfb7qgdodYRdr7f2q6nfZmDA5Q=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d2q7ToA86LvOlI0YtWqH+el1lIw=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d2q7ToA86LvOlI0YtWqH+el1lIw=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eTvrz3bXtvqi+Eo3xIAn6aKK4YU=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eTvrz3bXtvqi+Eo3xIAn6aKK4YU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h3IJBb6IVX2BZGqKvut4EbbMqzs=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h3IJBb6IVX2BZGqKvut4EbbMqzs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hMmG7Vxx+cSXDB1JzmlKrBs5sdg=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hMmG7Vxx+cSXDB1JzmlKrBs5sdg=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hRdxKTiG5RndsRRaGWqL9OdwfaE=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hRdxKTiG5RndsRRaGWqL9OdwfaE=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i16xzz106HVeK9UzPHFX8A5O8i4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/j09dNyFtP9IJB2EKrpv_cOHS4LM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l439ByVofzkUwTfPvcqqGBRxWf4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/n8GSGu24ECQlgaEHVwJEUpF_tu0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/peV4FHIxvmF0+jmt5lmJ+QhxdgQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pvN2RKc+9+deq1_kl_8hU0PJeeM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rMxRLBLQHGFN5kXw8dOCJGkmXSo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/sBnGgZ4NEM0rXzeoUzgZ_h6Iu2E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iBHhBe_nBSKkjmrL+mBDNtsH2YI=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iBHhBe_nBSKkjmrL+mBDNtsH2YI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iSoKKX+gIe_gXVqzsWgopTR14ZE=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iSoKKX+gIe_gXVqzsWgopTR14ZE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iUX4J4vyZHkyWJ6ilRy0nBBx09Y=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iUX4J4vyZHkyWJ6ilRy0nBBx09Y=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/isZbGOqKAMVwAVg9F05bkWIWVBM=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/isZbGOqKAMVwAVg9F05bkWIWVBM=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jbrGSWVy_6MrEKspv7gkxbjwSlM=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jbrGSWVy_6MrEKspv7gkxbjwSlM=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mGj9MCN5sk9BD67YA7XTb_3d+g8=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mGj9MCN5sk9BD67YA7XTb_3d+g8=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pV7uhZJowD16CQOYxlGFRbqiw6U=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pV7uhZJowD16CQOYxlGFRbqiw6U=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qDwXa1CSWzROBPh2XnDY83mHYx8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qkablDmKVzf2YVndKH46Z7ewLrs=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qkablDmKVzf2YVndKH46Z7ewLrs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rJoKcLLl1PbQ0PgT1rYl2nmQuLk=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rJoKcLLl1PbQ0PgT1rYl2nmQuLk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rftxHWQn8op_c6p1QYMR1nrn3gw=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rftxHWQn8op_c6p1QYMR1nrn3gw=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/skQu3EKD0x6hCWsvmQJ3Tu51oqw=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/skQu3EKD0x6hCWsvmQJ3Tu51oqw=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/t0EDZDykjXca4BO08HZx_KR2GFU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wPFxvbNrgx97hwb_h766D8blKrw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wUppXu5H4Vyard9trH6FdfXX4Qg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/soGL_aIoj44pj38op1ehl51O2M4=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/soGL_aIoj44pj38op1ehl51O2M4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uB1pBMy7atK8izGWo+CmZRZQql0=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uB1pBMy7atK8izGWo+CmZRZQql0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uVj1uorfZ2w2w+tRVIJXIsxcbzE=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uVj1uorfZ2w2w+tRVIJXIsxcbzE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ukVEKJS6sxytOqDenPdZRsDYb8I=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ukVEKJS6sxytOqDenPdZRsDYb8I=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v7cksjChLIQ4BsfUgf1SGui029U=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v7cksjChLIQ4BsfUgf1SGui029U=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/w2ycjj47xX72JfSEqw+8f77iw6E=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/w2ycjj47xX72JfSEqw+8f77iw6E=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wvI4IQjHdQuO0CtTJiroGWtHoxY=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wvI4IQjHdQuO0CtTJiroGWtHoxY=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yO3FmpfF__SGOmFBn_vAgplRlio=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yO3FmpfF__SGOmFBn_vAgplRlio=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zG+74dVuCLU9G0ll9wErmSqmLKE=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zG+74dVuCLU9G0ll9wErmSqmLKE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zMan1LPbbpRFDXQ9dtJgaY2pW9M=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zMan1LPbbpRFDXQ9dtJgaY2pW9M=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zkBvXBvGD5ueXnqHqCzLyj1wRiM=" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zkBvXBvGD5ueXnqHqCzLyj1wRiM=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
@@ -238,12 +212,15 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/RetrofitRecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/RetrofitRecyclerAdapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/SQLiteMainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/SQLiteMainActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/TextViews.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/TextViews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ToDoListApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/ToDoListApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/UserInteraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/UserInteraction.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/UserInteraction2.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/UserInteraction2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/disease/api/CDAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/disease/api/CDAdapter$ViewHolder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/disease/api/CDAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/disease/api/CDAdapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter$ViewHolder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/to_do_list/ToDoListAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/to_do_list/ToDoListAdapter$ViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/to_do_list/ToDoListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/to_do_list/ToDoListAdapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_java_res/debug/base.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_java_res/debug/base.jar" afterDir="false" />
@@ -255,7 +232,12 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_celsi.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_celsi.png.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_city.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_city.png.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_fcb.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_fcb.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_add_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_add_24.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_create_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_create_24.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_crop_square_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_crop_square_24.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_done_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_done_24.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_edit_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_edit_24.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_more_vert_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_more_vert_24.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_remove_circle_outline_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_baseline_remove_circle_outline_24.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_minus.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/drawable_ic_minus.xml.flat" afterDir="false" />
@@ -293,6 +275,7 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_retrofit_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_retrofit_main.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_sqlite_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_sqlite_main.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_text_views.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_text_views.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_to_do_list_app.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_to_do_list_app.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_user_interaction.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_user_interaction.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_user_interaction2.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_activity_user_interaction2.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_club_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_club_item.xml.flat" afterDir="false" />
@@ -300,7 +283,11 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_covid_tracker_app_layout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_covid_tracker_app_layout.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_form_country.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_form_country.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_retrofit_recyclerview_layout_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_retrofit_recyclerview_layout_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_to_do_list_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_to_do_list_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_user_input_dialog_box.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/layout_user_input_dialog_box.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_main_menu_scores.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_main_menu_scores.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_main_menu_to_do_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_main_menu_to_do_list.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_menu_item_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/menu_menu_item_list.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat" afterDir="false" />
@@ -556,15 +543,14 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/layout/country_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/layout/country_item.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/61c602a9756f4389649b601a79603d5b88182d6ee5f432469a9615f8be05a57b_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/3213660677d7945aec92ea3c5e8932514bca236fb1c78102678197d0d84900e4_5.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/BackgroundProcessing.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/BackgroundProcessing.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/Buttons.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CDRetrofitMain.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/CDRetrofitMain.dex" afterDir="false" />
@@ -594,12 +580,15 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/RetrofitRecyclerAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/RetrofitRecyclerAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/SQLiteMainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/SQLiteMainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/TextViews.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/TextViews.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ToDoListApp.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/ToDoListApp.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/UserInteraction.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/UserInteraction.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/UserInteraction2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/UserInteraction2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/disease/api/CDAdapter$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/disease/api/CDAdapter$ViewHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/disease/api/CDAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/disease/api/CDAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter$ViewHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/covid/tracker/app/CovidRetrofitAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/to_do_list/ToDoListAdapter$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/to_do_list/ToDoListAdapter$ViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/to_do_list/ToDoListAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/to_do_list/ToDoListAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/source_set_path_map/debug/file-map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
@@ -607,102 +596,73 @@
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/SQLiteMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/SQLiteMainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/country_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/layout/country_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/to_do_list/ToDoListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/to_do_list/ToDoListAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/apk/debug/udemy-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/apk/debug/udemy-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/apk/debug/udemy-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0rVgEdhvwH+mqGazEmwEPQ0caZk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/439ti38FNcVIZbmIMl3_RxKcbfA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5Mswzq_oQAQaGS+bximKOA9Tf8o=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8fFHyewgeM9D2MbOkcAyFSj5iHU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AwiFxFlUp2tJ6J4PWm60D0nHxgY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BXhh7YqdQb_vEaGoAZw2_vcdOgU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DBC_+ZExZgJbln6N+LW5CuUgAuY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GlbtcUI1yuehP_0WqJFic6AxmJo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/J4TTl29WdttCFFLgOjlqyMBFJUY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JTAPspK6Rz+P_dkMi7hmw9alVTY=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/L9jPq8hduEroTmjQGXVljS3QAT0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OYJVZrBBG5AMHgA39yR1q9hstgo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QfUvMnjHDJ8g9lc6NZh9t9k1R0w=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Rja6Vv+8Bo8+rmxniQEMIv8kccA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SwxvDOi03z2jYJ9vPHLYNuaLvqU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WSDdgAuQtmcw4x_98EIECCz6XwU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XjbRzUEViLoUbX7n6CJPj85JA2A=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Yb4hJVot+OmRnnlEtBN0cnvezIk=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YwlGAqTb2aHBiNMWA6spQSlv_ZQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_Q50+VGRbYPC2X9ckoMH4SuQcOo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aDTBY8MDTGeXWPrXtl8H+XqivSE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bO2DHCWkoI3tJBsUvxIgtk66Pzg=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bkhyI+T_LYBIwlDrdLvEbcvsFvU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cT5L1w+nk5gJnSakmAKsMULQxM4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dnz2suA9RAcNPGBDFHyzVzt+NbI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/epIV2GWLamLWFiPt_Ky1D0O33ys=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fMYA0bW7TMC3JQxiov9yO468cIw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gbYeTFKc0Tx4wkZn5vls+baV9fI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ghFTML8HnsLupsFMDW7fQY4XRwE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hG32IUzGSgAbbvnxx88iMltyoi8=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i16xzz106HVeK9UzPHFX8A5O8i4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/j09dNyFtP9IJB2EKrpv_cOHS4LM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l439ByVofzkUwTfPvcqqGBRxWf4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/n8GSGu24ECQlgaEHVwJEUpF_tu0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/peV4FHIxvmF0+jmt5lmJ+QhxdgQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pvN2RKc+9+deq1_kl_8hU0PJeeM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qJIjMu+zKpza8rGhmQWdu9BLiqc=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rMxRLBLQHGFN5kXw8dOCJGkmXSo=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/sBnGgZ4NEM0rXzeoUzgZ_h6Iu2E=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/t0EDZDykjXca4BO08HZx_KR2GFU=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wPFxvbNrgx97hwb_h766D8blKrw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wUppXu5H4Vyard9trH6FdfXX4Qg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+VtckwxrBV5M5wz2NOLCoIzn3wU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2vUgRCG+_s2yA3adyw55Gcu6Eu8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3Y2DS4v1LGnAjFPdRloeuvjVS7g=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3qucYL2nXMnCeEtLbupiuFY3DY0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/452OakZzEFOqDGcmiXL_BtxNL3c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4Wz_HpVIBc5JfXNKze2QVS7lhlE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6z+VXhQw7+S0qwLWfRMI6SBXOT4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/877k1cU5HWw20yo1MDHRSzV7DsI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8caXJTbCOnqxFM99v_D3h6IvGlA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CPlXEtaexzFXf2H7snClx8xkxvY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Er1T9Aodg50kZBhjb_4Ryvh9LT0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FIcWbb+c8tfgazMbb1hmrBtpAs4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ii+87HY0wYtTLL0XvSCg9vzhqps=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LXAAYU5j7sdCoWiTmgaLBkBqAIs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LkzXM+2nJg9fpZt3e3nhadasiiQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M4UHhnXnrUsIKf1zJMxflMy81rk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OB8oCsl3IHJfRg1j20ViZlvZb84=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OlAD6yBqvxoqA16c604adkPZvE0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RH7Djv9cNKRNL8DAKzLP2XRxWp4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SumHcwNL51tTRdMGfEFKvpLawQA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/T8nvrQvQEh89_yU6_VkTFv+3wYA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TcEY48BcRsAN3FGXUgcOgCZm9jQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/V3hDk+YAvThIFRXIQ3XXdUEoDxA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WNKv+hB_LPiOA0KJunbnewlz410=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XyyUhnTe4rlXxEr2sbHfk0zBmRU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cdfb7qgdodYRdr7f2q6nfZmDA5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gAVHQLfqZMaCp+3KwsHjens5_b0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h1KvZMIYmeN3gpxSXviaZc0x16w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h3IJBb6IVX2BZGqKvut4EbbMqzs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hMmG7Vxx+cSXDB1JzmlKrBs5sdg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iBHhBe_nBSKkjmrL+mBDNtsH2YI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pV7uhZJowD16CQOYxlGFRbqiw6U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qkablDmKVzf2YVndKH46Z7ewLrs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rJoKcLLl1PbQ0PgT1rYl2nmQuLk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/soGL_aIoj44pj38op1ehl51O2M4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uVj1uorfZ2w2w+tRVIJXIsxcbzE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v7cksjChLIQ4BsfUgf1SGui029U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/w2ycjj47xX72JfSEqw+8f77iw6E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wvI4IQjHdQuO0CtTJiroGWtHoxY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zG+74dVuCLU9G0ll9wErmSqmLKE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zMan1LPbbpRFDXQ9dtJgaY2pW9M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zkBvXBvGD5ueXnqHqCzLyj1wRiM=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ActivityLifecycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ActivityLifecycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/BroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/BroadcastReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ConstraintLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ConstraintLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/DialogMessage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/DialogMessage$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/DialogMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/DialogMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/FragmentExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/FragmentExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/FragmentLifecycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/FragmentLifecycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/GridAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/GridAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/GridView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/GridView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ListView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ListView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerAdapter$CountryviewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerAdapter$CountryviewHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RecyclerView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitLibraryMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitLibraryMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerAdapter$ViewHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/RetrofitRecyclerView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ScrollView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ScrollView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SecondActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SecondActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/Services.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/Services.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ServicesExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ServicesExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SnackbarMessage$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SnackbarMessage$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SnackbarMessage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SnackbarMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SnackbarMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SpinnerButtons$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SpinnerButtons$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SpinnerButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/SpinnerButtons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToastMessage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToastMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToastMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToggleButtons$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToggleButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/ToggleButtons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/WebView.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/WebView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/components_and_lifecycle/BroadcastExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/javac/debug/classes/com/course/udemy/components_and_lifecycle/BroadcastExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" afterDir="false" />
@@ -823,52 +783,50 @@
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/48542081277b247c769883ee6927235a00774dc4e994c1e6347599a04fe6426b_5.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ActivityLifecycle.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ActivityLifecycle.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ApplicationLifecycle.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ApplicationLifecycle.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/BroadcastReceiver.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/BroadcastReceiver.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/BuildConfig.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ConstraintLayout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ConstraintLayout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/DialogMessage$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/DialogMessage$2.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/DialogMessage.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/DialogMessage.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/FragmentExample.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/FragmentExample.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/FragmentLifecycle.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/FragmentLifecycle.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/GridAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/GridAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/GridView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/GridView.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ListView$1.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ListView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ListView.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerAdapter$CountryviewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerAdapter$CountryviewHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RecyclerView.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitApi.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitApi.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitLibraryMain$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitLibraryMain$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitLibraryMain.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitLibraryMain.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitModelClass.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitModelClass.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerAdapter$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerAdapter$ViewHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerView$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerView$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/RetrofitRecyclerView.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ScrollView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ScrollView.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SecondActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SecondActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/Services.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/Services.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ServicesExample.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ServicesExample.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SnackbarMessage$1$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SnackbarMessage$1$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SnackbarMessage$1.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SnackbarMessage.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SnackbarMessage.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SpinnerButtons$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SpinnerButtons$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SpinnerButtons.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/SpinnerButtons.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToastMessage$1.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToastMessage.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToastMessage.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToggleButtons$1.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToggleButtons.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/ToggleButtons.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/WebView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/WebView.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/components_and_lifecycle/BroadcastExample.dex" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/com/course/udemy/components_and_lifecycle/BroadcastExample.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/project_dex_archive/debug/out/d219a7a2c84f55194f89885a6114b4931e362860df1ac689e0a8090a11a29b85_5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/source_set_path_map/debug/file-map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
     </list>
@@ -906,8 +864,8 @@
         <option value="valueResourceFile" />
         <option value="Interface" />
         <option value="layoutResourceFile" />
-        <option value="resourceFile" />
         <option value="Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -946,8 +904,9 @@
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
     <property name="android-custom-viewC:/Users/Nasrul Wahabi/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android.recentlyUsedThemes" value="Theme.AppCompat.DayNight" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/hacktiv8/src/main/res/mipmap-anydpi-v26" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-java-to-do-list" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
@@ -961,18 +920,11 @@
     <key name="android.template.1608962807">
       <recent name="com.belajar.android" />
     </key>
-    <key name="android.template.-2112831757">
-      <recent name="com.course.udemy" />
-    </key>
     <key name="android.template.144767974">
       <recent name="com.belajar.android" />
     </key>
-    <key name="android.template.430719780">
-      <recent name="com.belajar.android" />
-    </key>
-    <key name="android.template.382588038">
-      <recent name="com.belajar.android" />
-      <recent name="com.course.udemy" />
+    <key name="android.template.1562829692">
+      <recent name="com.belajar.android.to_do_list" />
     </key>
     <key name="android.template.165992544">
       <recent name="com.belajar.android" />
@@ -983,9 +935,6 @@
     <key name="android.template.2046383338">
       <recent name="com.course.udemy" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.course.udemy" />
-    </key>
     <key name="android.template.1901464616">
       <recent name="com.belajar.android" />
     </key>
@@ -993,31 +942,14 @@
       <recent name="com.belajar.android" />
       <recent name="com.belajar.android.test" />
     </key>
-    <key name="android.template.-851835725">
-      <recent name="com.belajar.android" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\res\drawable" />
-    </key>
-    <key name="android.template.-445662985">
+    <key name="android.template.-418837053">
       <recent name="com.belajar.android" />
     </key>
     <key name="android.template.-2120931632">
       <recent name="com.belajar.android" />
     </key>
-    <key name="android.template.-373827233">
-      <recent name="com.belajar.android.udemy" />
-      <recent name="com.belajar.android" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\res\menu" />
-    </key>
-    <key name="android.template.-801670484">
-      <recent name="com.belajar.android" />
-      <recent name="com.android.udemy" />
-    </key>
-    <key name="android.template.1310030191">
-      <recent name="com.course.udemy" />
     </key>
     <key name="android.template.-337431794">
       <recent name="com.belajar.android" />
@@ -1032,9 +964,46 @@
     <key name="android.template.-190961814">
       <recent name="com.belajar.android" />
     </key>
+    <key name="android.template.-2112831757">
+      <recent name="com.course.udemy" />
+    </key>
+    <key name="android.template.430719780">
+      <recent name="com.belajar.android" />
+    </key>
+    <key name="android.template.382588038">
+      <recent name="com.belajar.android" />
+      <recent name="com.course.udemy" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.belajar.android" />
+      <recent name="com.course.udemy" />
+    </key>
+    <key name="android.template.-851835725">
+      <recent name="com.belajar.android" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\udemy\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-445662985">
+      <recent name="com.belajar.android" />
+    </key>
+    <key name="android.template.-940284898">
+      <recent name="com.belajar.android" />
+    </key>
+    <key name="android.template.-373827233">
+      <recent name="com.belajar.android.udemy" />
+      <recent name="com.belajar.android" />
+    </key>
+    <key name="android.template.-801670484">
+      <recent name="com.belajar.android" />
+      <recent name="com.android.udemy" />
+    </key>
+    <key name="android.template.1310030191">
+      <recent name="com.course.udemy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Android App.ToDoListApp">
-    <configuration name="DelightfulUserExperiences" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+  <component name="RunManager" selected="Android App.DatabaseApiMainActivity">
+    <configuration name="DatabaseApiAddActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.hacktiv8.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -1086,14 +1055,14 @@
         <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.DelightfulUserExperiences" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.DatabaseApiAddActivity" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SQLiteMainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+    <configuration name="DatabaseApiEditActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.hacktiv8.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -1145,7 +1114,125 @@
         <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.SQLiteMainActivity" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.DatabaseApiEditActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseApiMainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.hacktiv8.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.DatabaseApiMainActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HacktivSesi6_main" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="My_Application.hacktiv8.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.HacktivSesi6_main" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
@@ -1205,124 +1292,6 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="com.belajar.android.ToDoListApp" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToggleButtons" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.udemy.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="specific_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.course.udemy.ToggleButtons" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserInteraction" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.hacktiv8.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="specific_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.UserInteraction" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
@@ -1508,11 +1477,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android App.DatabaseApiMainActivity" />
+        <item itemvalue="Android App.DatabaseApiAddActivity" />
+        <item itemvalue="Android App.DatabaseApiEditActivity" />
+        <item itemvalue="Android App.HacktivSesi6_main" />
         <item itemvalue="Android App.ToDoListApp" />
-        <item itemvalue="Android App.UserInteraction" />
-        <item itemvalue="Android App.SQLiteMainActivity" />
-        <item itemvalue="Android App.DelightfulUserExperiences" />
-        <item itemvalue="Android App.ToggleButtons" />
       </list>
     </recent_temporary>
   </component>

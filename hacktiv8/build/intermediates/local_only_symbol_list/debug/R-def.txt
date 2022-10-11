@@ -15,10 +15,12 @@ drawable celsi
 drawable city
 drawable fcb
 drawable ic_baseline_add_24
+drawable ic_baseline_arrow_back_24
 drawable ic_baseline_create_24
 drawable ic_baseline_crop_square_24
 drawable ic_baseline_done_24
 drawable ic_baseline_edit_24
+drawable ic_baseline_local_activity_24
 drawable ic_baseline_more_vert_24
 drawable ic_baseline_remove_circle_outline_24
 drawable ic_launcher_background
@@ -33,6 +35,7 @@ drawable mu
 drawable pool
 drawable psg
 drawable square
+drawable todolist
 id ACTION_NOTIF
 id BIGPICTURESTYLE_NOTIF
 id BIGTEXTSTYLE_NOTIF
@@ -42,6 +45,7 @@ id SIMPLE_NOTIF
 id action_item_add
 id alamat
 id box
+id btn_submit
 id button
 id button1
 id button2
@@ -63,6 +67,7 @@ id countryName
 id countryNameInput
 id country_list_rv
 id custom_dialog_layout_design_user_input
+id cv_main
 id deaths
 id decreaseTeam1
 id decreaseTeam2
@@ -71,6 +76,10 @@ id editIcon
 id editText
 id edit_item
 id etName
+id et_alamat
+id et_hobi
+id et_nama
+id et_noinduk
 id explicitButton
 id female
 id formText
@@ -86,6 +95,8 @@ id linier
 id logo_team
 id logo_view
 id male
+id menu_add
+id menu_back
 id moreItemList
 id namaLengkap
 id nama_team
@@ -106,10 +117,12 @@ id removeIcon
 id remove_item
 id result
 id retrofit_constraint
+id rv_main
 id save
 id saveButton
 id score1
 id score2
+id srl_main
 id status
 id sub_txt
 id submit_area
@@ -123,6 +136,10 @@ id textViewPhone
 id textViewRecovered
 id title
 id toDoList_review
+id tv_alamat
+id tv_hobi
+id tv_nama
+id tv_noind
 id umur
 id unclick
 id universitas
@@ -137,6 +154,9 @@ layout activity_cdretrofit_main
 layout activity_check_button
 layout activity_counter_homework
 layout activity_covid_tracker_app_main
+layout activity_database_api_add
+layout activity_database_api_edit
+layout activity_database_api_main2
 layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
@@ -163,13 +183,18 @@ layout country_item
 layout covid_tracker_app_layout
 layout form_country
 layout retrofit_recyclerview_layout_item
+layout student_rv
 layout to_do_list_item
 layout user_input_dialog_box
 menu main_menu_scores
 menu main_menu_to_do_list
+menu menu_back
 menu menu_item_list
+menu menutambah
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_todolist
+mipmap ic_todolist_round
 string app_name
 string button_decrease
 string button_increase
@@ -186,6 +211,7 @@ string implicit_button
 string item_list
 string label_team1
 string label_team2
+string my_todoList
 string night_mode
 string project_id
 string zero

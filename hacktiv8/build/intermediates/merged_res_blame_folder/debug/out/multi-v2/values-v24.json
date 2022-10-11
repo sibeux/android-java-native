@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-32:/values-v24/values-v24.xml",
+            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-34:/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\ea4fb2c479fb388b06192e19e8a38269\\transformed\\appcompat-1.5.1\\res\\values-v24\\values-v24.xml",

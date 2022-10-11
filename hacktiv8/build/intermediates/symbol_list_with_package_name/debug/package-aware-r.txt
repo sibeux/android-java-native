@@ -977,6 +977,7 @@ attr suffixText
 attr suffixTextAppearance
 attr suffixTextColor
 attr suggestionRowLayout
+attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
 attr switchStyle
@@ -2509,10 +2510,12 @@ drawable fcb
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_add_24
+drawable ic_baseline_arrow_back_24
 drawable ic_baseline_create_24
 drawable ic_baseline_crop_square_24
 drawable ic_baseline_done_24
 drawable ic_baseline_edit_24
+drawable ic_baseline_local_activity_24
 drawable ic_baseline_more_vert_24
 drawable ic_baseline_remove_circle_outline_24
 drawable ic_clock_black_24dp
@@ -2579,6 +2582,7 @@ drawable psg
 drawable square
 drawable test_custom_background
 drawable test_level_drawable
+drawable todolist
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ACTION_NOTIF
@@ -2695,6 +2699,7 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btn_submit
 id button
 id button1
 id button2
@@ -2759,6 +2764,7 @@ id custom
 id customPanel
 id custom_dialog_layout_design_user_input
 id cut
+id cv_main
 id dark
 id date_picker_actions
 id deaths
@@ -2811,6 +2817,10 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id etName
+id et_alamat
+id et_hobi
+id et_nama
+id et_noinduk
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2911,6 +2921,8 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menu_add
+id menu_back
 id message
 id middle
 id mini
@@ -3015,6 +3027,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rv_main
 id save
 id saveButton
 id save_non_transition_alpha
@@ -3068,6 +3081,7 @@ id square
 id src_atop
 id src_in
 id src_over
+id srl_main
 id standard
 id start
 id startHorizontal
@@ -3141,6 +3155,10 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tv_alamat
+id tv_hobi
+id tv_nama
+id tv_noind
 id umur
 id unchecked
 id unclick
@@ -3272,6 +3290,9 @@ layout activity_cdretrofit_main
 layout activity_check_button
 layout activity_counter_homework
 layout activity_covid_tracker_app_main
+layout activity_database_api_add
+layout activity_database_api_edit
+layout activity_database_api_main2
 layout activity_delightful_user_experiences
 layout activity_edit_text
 layout activity_hacktiv_layout_view
@@ -3373,6 +3394,7 @@ layout retrofit_recyclerview_layout_item
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout student_rv
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -3394,9 +3416,13 @@ layout to_do_list_item
 layout user_input_dialog_box
 menu main_menu_scores
 menu main_menu_to_do_list
+menu menu_back
 menu menu_item_list
+menu menutambah
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_todolist
+mipmap ic_todolist_round
 plurals mtrl_badge_content_description
 raw firebase_common_keep
 string abc_action_bar_home_description
@@ -3552,6 +3578,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string my_todoList
 string night_mode
 string password_toggle_content_description
 string path_password_eye
@@ -4752,6 +4779,7 @@ styleable State android_id constraints
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable
 styleable StateSet defaultState
+styleable SwipeRefreshLayout swipeRefreshLayoutProgressSpinnerBackgroundColor
 styleable SwitchCompat android_textOn android_textOff android_thumb showText splitTrack switchMinWidth switchPadding switchTextAppearance thumbTextPadding thumbTint thumbTintMode track trackTint trackTintMode
 styleable SwitchMaterial useMaterialThemeColors
 styleable TabItem android_icon android_layout android_text

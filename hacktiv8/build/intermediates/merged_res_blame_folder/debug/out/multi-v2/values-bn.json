@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-32:/values-bn/values-bn.xml",
+            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-34:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\4fda506388bd184a2aa92296377853e5\\transformed\\material-1.6.1\\res\\values-bn\\values-bn.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\4f36281d46ee8373ea89445f988a58a6\\transformed\\play-services-base-18.0.1\\res\\values-bn\\values.xml",
+                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\c950be1d1030546b81e10f67942b09ef\\transformed\\jetified-play-services-base-18.0.1\\res\\values-bn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\6386fcf57f58045ac147a5ebc907797a\\transformed\\play-services-basement-18.1.0\\res\\values-bn\\values.xml",
+                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\418b9b38780225f4c9b9b437c64f6e06\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-bn\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

@@ -15,7 +15,7 @@
         <item name="textAppearanceBody1">@string/zero</item>
     </style>
 
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
         <item name="actionBarPopupTheme">@style/item_list</item>
     </style>
 
