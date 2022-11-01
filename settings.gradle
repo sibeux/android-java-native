@@ -9,3 +9,4 @@ pluginManagement {
 rootProject.name = "My Application"
 include ':hacktiv8'
 include ':udemy'
+include ':ecommerce'
