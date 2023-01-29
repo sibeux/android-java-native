@@ -4,14 +4,12 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.hacktiv8.travelling.R;
 import com.hacktiv8.travelling.adapter.AlertDialogManager;
 import com.hacktiv8.travelling.session.SessionManager;
 
@@ -60,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void bookHotel(View v) {
-        Toast.makeText(getApplicationContext(), "Mohon maaf, sistem sedang dalam pengembangan.", Toast.LENGTH_LONG).show();
+        Intent i = new Intent(this,TicketActivity.class);
+        startActivity(i);
     }
 }

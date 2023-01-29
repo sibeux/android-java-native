@@ -2,6 +2,7 @@ package com.hacktiv8.travelling;
 
 import android.app.DatePickerDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -26,6 +27,7 @@ import com.hacktiv8.travelling.session.SessionManager;
 
 import java.util.Calendar;
 import java.util.HashMap;
+import java.util.Objects;
 
 public class BookKeretaActivity extends AppCompatActivity {
 
@@ -150,26 +152,42 @@ public class BookKeretaActivity extends AppCompatActivity {
                             .setTitle("Ingin booking kereta sekarang?")
                             .setPositiveButton("Ya", (dialog1, which) -> {
                                 try {
-                                    db.execSQL("INSERT INTO TB_BOOK (asal, tujuan, tanggal, dewasa, anak) VALUES ('" +
-                                            sAsal + "','" +
-                                            sTujuan + "','" +
-                                            sTanggal + "','" +
-                                            sDewasa + "','" +
-                                            sAnak + "');");
-                                    cursor = db.rawQuery("SELECT id_book FROM TB_BOOK ORDER BY id_book DESC", null);
-                                    cursor.moveToLast();
-                                    if (cursor.getCount() > 0) {
-                                        cursor.moveToPosition(0);
-                                        id_book = cursor.getInt(0);
-                                    }
-                                    db.execSQL("INSERT INTO TB_HARGA (username, id_book, harga_dewasa, harga_anak, harga_total) VALUES ('" +
-                                            email + "','" +
-                                            id_book + "','" +
-                                            hargaTotalDewasa + "','" +
-                                            hargaTotalAnak + "','" +
-                                            hargaTotal + "');");
-                                    Toast.makeText(BookKeretaActivity.this, "Booking berhasil", Toast.LENGTH_LONG).show();
-                                    finish();
+//                                    db.execSQL("INSERT INTO TB_BOOK (asal, tujuan, tanggal, dewasa, anak) VALUES ('" +
+//                                            sAsal + "','" +
+//                                            sTujuan + "','" +
+//                                            sTanggal + "','" +
+//                                            sDewasa + "','" +
+//                                            sAnak + "');");
+//                                    cursor = db.rawQuery("SELECT id_book FROM TB_BOOK ORDER BY id_book DESC", null);
+//                                    cursor.moveToLast();
+//                                    if (cursor.getCount() > 0) {
+//                                        cursor.moveToPosition(0);
+//                                        id_book = cursor.getInt(0);
+//                                    }
+//                                    db.execSQL("INSERT INTO TB_HARGA (username, id_book, harga_dewasa, harga_anak, harga_total) VALUES ('" +
+//                                            email + "','" +
+//                                            id_book + "','" +
+//                                            hargaTotalDewasa + "','" +
+//                                            hargaTotalAnak + "','" +
+//                                            hargaTotal + "');");
+//                                    finish();
+
+                                    Intent intent = new Intent(this, BusPriceActivity.class);
+                                    intent.putExtra("asal",sAsal);
+                                    intent.putExtra("tujuan",sTujuan);
+                                    intent.putExtra("tanggal",sTanggal);
+                                    intent.putExtra("dewasa",sDewasa);
+                                    intent.putExtra("anak",sAnak);
+
+                                    intent.putExtra("email",email);
+                                    intent.putExtra("id_book",id_book);
+                                    intent.putExtra("hargaTotalDewasa",hargaTotalDewasa);
+                                    intent.putExtra("hargaTotalAnak",hargaTotalAnak);
+                                    intent.putExtra("hargaTotal",hargaTotal);
+
+                                    intent.putExtra("jmlTotal",jmlAnak+jmlDewasa);
+
+                                    startActivity(intent);
                                 } catch (Exception e) {
                                     Toast.makeText(BookKeretaActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
                                 }
@@ -191,7 +209,7 @@ public class BookKeretaActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.tbKrl);
         toolbar.setTitle("Form Booking");
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
     }
 
     @Override

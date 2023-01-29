@@ -9,7 +9,6 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.hacktiv8.travelling.R;
 import com.hacktiv8.travelling.database.DatabaseHelper;
 import com.hacktiv8.travelling.session.SessionManager;
 

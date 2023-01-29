@@ -16,7 +16,7 @@ public class UserInteraction extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_interaction);
 
-        RecyclerView clubListRv = (RecyclerView) findViewById(R.id.club_list_rv);
+        RecyclerView clubListRv = findViewById(R.id.club_list_rv);
 
         List<Club> clubList = new ArrayList<>();
         clubList.add(new Club("Arsenal",R.drawable.arsenal));

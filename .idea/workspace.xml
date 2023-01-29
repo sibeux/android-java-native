@@ -16,151 +16,96 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="android ecommerce">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/androidTest/java/com/hacktiv8/travelling/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BookKeretaActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BusDestinationActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BusPriceActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/HistoryActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/ProfileActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/RegisterActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/SeatActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/adapter/AlertDialogManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/adapter/HistoryAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/database/DatabaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/model/HistoryModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/session/SessionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/book_hotel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/book_kereta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/ic_date.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/ic_fail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/ic_person.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/ic_success.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/notification.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-anydpi/profile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/book_hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/book_kereta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/ic_date.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/ic_fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/ic_person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/ic_success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/notification.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-hdpi/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/book_hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/book_kereta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/ic_date.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/ic_fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/ic_person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/ic_success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/notification.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-mdpi/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/book_hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/book_kereta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/ic_date.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/ic_fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/ic_person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/ic_success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/notification.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xhdpi/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/book_hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/book_kereta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/ic_date.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/ic_fail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/ic_person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/ic_success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/notification.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable-xxhdpi/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/available_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bg_home_curve.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bg_home_wave.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bg_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bg_ui.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/booked_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bus_image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bus_image_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/bus_image_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/button_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/buttonshape.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/circle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/circletransparant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_add.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_arrow_back_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_date_range_light_blue_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_email.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_location_on_light_blue_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_password.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_person_outline_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_swap_horiz_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/your_seat_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/font/calibri.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/font/gotham.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/font/print_clearly.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_book_kereta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_bus_destination.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_bus_price.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_profile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_register.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_seat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/list_item_booking.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travelling/src/test/java/com/hacktiv8/travelling/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="android bus booking">
+      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/TicketActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_baseline_airplane_ticket_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_ticket.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_7_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_7_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/My_Application.hacktiv8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/My_Application.hacktiv8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ecommerce/My_Application.ecommerce.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hacktiv8/My_Application.hacktiv8.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/travelling/My_Application.travelling.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy/My_Application.udemy.unitTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/apk/debug/hacktiv8-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/IntentApp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/javac/debug/classes/com/belajar/android/IntentApp2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/IntentApp2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/project_dex_archive/debug/out/com/belajar/android/IntentApp2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/IntentApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/IntentApp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/UserInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/UserInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BookKeretaActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BookKeretaActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BusPriceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/BusPriceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/HistoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/HistoryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/ProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/ProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/SeatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/java/com/hacktiv8/travelling/SeatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_swap_horiz_white_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/res/drawable/ic_swap_horiz_white_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_bus_price.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_bus_price.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_seat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelling/src/main/res/layout/activity_seat.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[scdaijvoh6qwnf7h]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Nasrul Wahabi\.android\avd\Pixel_5_API_33.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -216,35 +161,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java_SELECTED" value="CoordinatorLayout" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
-    <property name="android-custom-viewC:/Users/Nasrul Wahabi/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
-    <property name="android.recentlyUsedThemes" value="Theme.MaterialComponents.NoActionBar&#10;Base.Theme.AppCompat&#10;Theme.MaterialComponents.Dialog.Bridge&#10;Base.V14.Theme.Material3.Light&#10;Base.Theme.AppCompat.Light.DarkActionBar" />
-    <property name="cidr.known.project.marker" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/travelling/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="android.template.-139639069">
       <recent name="com.belajar.android" />
     </key>
     <key name="android.template.1608962807">
       <recent name="com.belajar.android" />
+    </key>
+    <key name="android.template.-1302802456">
+      <recent name="com.hacktiv8.travelling" />
     </key>
     <key name="android.template.144767974">
       <recent name="com.belajar.android" />
@@ -299,6 +231,9 @@
     <key name="android.template.-190961814">
       <recent name="com.belajar.android" />
     </key>
+    <key name="android.template.-461274123">
+      <recent name="com.hacktiv8.travelling" />
+    </key>
     <key name="android.template.-2112831757">
       <recent name="com.course.udemy" />
     </key>
@@ -348,7 +283,7 @@
       <recent name="com.hacktiv8.ecommerce.database" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.BusDestinationActivity">
+  <component name="RunManager" selected="Android App.ToDoListApp">
     <configuration name="BusDestinationActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.travelling.main" />
       <option name="DEPLOY" value="true" />
@@ -398,7 +333,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="com.hacktiv8.travelling.BusDestinationActivity" />
@@ -408,7 +342,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BusPriceActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+    <configuration name="BusPriceActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
       <module name="My_Application.travelling.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -457,7 +391,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="com.hacktiv8.travelling.BusPriceActivity" />
@@ -516,7 +449,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="com.hacktiv8.travelling.MainActivity" />
@@ -526,8 +458,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="My_Application.ecommerce.main" />
+    <configuration name="SplashScreen" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="My_Application.travelling.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -575,17 +507,16 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.hacktiv8.ecommerce.MainActivity" />
+      <option name="ACTIVITY_CLASS" value="com.hacktiv8.travelling.SplashScreen" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetrofitMainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+    <configuration name="ToDoListApp" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
       <module name="My_Application.hacktiv8.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -634,10 +565,9 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.belajar.android.RetrofitMainActivity" />
+      <option name="ACTIVITY_CLASS" value="com.belajar.android.ToDoListApp" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
@@ -693,7 +623,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -752,7 +681,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -811,7 +739,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -870,7 +797,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -929,7 +855,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -941,11 +866,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android App.BusDestinationActivity" />
-        <item itemvalue="Android App.BusPriceActivity" />
+        <item itemvalue="Android App.ToDoListApp" />
+        <item itemvalue="Android App.SplashScreen" />
         <item itemvalue="Android App.MainActivity (1)" />
-        <item itemvalue="Android App.MainActivity" />
-        <item itemvalue="Android App.RetrofitMainActivity" />
+        <item itemvalue="Android App.BusPriceActivity" />
+        <item itemvalue="Android App.BusDestinationActivity" />
       </list>
     </recent_temporary>
   </component>
@@ -1259,7 +1184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667327784163</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="android bus booking">
+      <created>1670908404882</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670908404882</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1275,7 +1207,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="java android hacktiv kelas ke-5&#10;tugas RecycleView Adapter clear" />
     <MESSAGE value="clear" />
     <MESSAGE value="contraint layout" />
     <MESSAGE value="list view" />
@@ -1300,6 +1231,7 @@
     <MESSAGE value="phpmyadmin database API android done" />
     <MESSAGE value="change theme app" />
     <MESSAGE value="android ecommerce" />
-    <option name="LAST_COMMIT_MESSAGE" value="android ecommerce" />
+    <MESSAGE value="android bus booking" />
+    <option name="LAST_COMMIT_MESSAGE" value="android bus booking" />
   </component>
 </project>

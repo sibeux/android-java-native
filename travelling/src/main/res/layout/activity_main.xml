@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/gray"
@@ -156,7 +157,8 @@
             app:cardCornerRadius="10dp"
             app:cardElevation="3dp"
             app:strokeColor="@color/colorPrimaryDark"
-            app:strokeWidth="2dp">
+            app:strokeWidth="2dp"
+            tools:ignore="UsingOnClickInXml">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -168,7 +170,7 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_centerInParent="true"
-                    android:src="@drawable/book_kereta" />
+                    android:src="@drawable/book_bus" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -176,9 +178,9 @@
                     android:layout_below="@+id/imgKereta"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="BOOKING\nKERETA"
+                    android:text="BOOKING"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
-                    android:textColor="#E91E63"
+                    android:textColor="#6FC6D2"
                     android:textStyle="bold" />
 
             </RelativeLayout>
@@ -197,7 +199,8 @@
             app:cardCornerRadius="10dp"
             app:cardElevation="3dp"
             app:strokeColor="@color/colorPrimaryDark"
-            app:strokeWidth="2dp">
+            app:strokeWidth="2dp"
+            tools:ignore="UsingOnClickInXml">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -209,7 +212,7 @@
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_centerInParent="true"
-                    android:src="@drawable/book_hotel" />
+                    android:src="@drawable/ic_baseline_airplane_ticket_24" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -217,7 +220,7 @@
                     android:layout_below="@+id/imgHotel"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="BOOKING\nHOTEL"
+                    android:text="MY TICKET"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                     android:textColor="#FFCC00"
                     android:textStyle="bold" />
