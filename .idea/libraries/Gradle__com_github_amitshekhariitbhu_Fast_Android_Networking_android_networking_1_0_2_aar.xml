@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.2@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/35b3d0b70fc72a1ecb75df9ad7669f2e/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/35b3d0b70fc72a1ecb75df9ad7669f2e/transformed/jetified-android-networking-1.0.2/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/35b3d0b70fc72a1ecb75df9ad7669f2e/transformed/jetified-android-networking-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/80adbb90ae2d740279c7f3012fc996e9/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/80adbb90ae2d740279c7f3012fc996e9/transformed/jetified-android-networking-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/80adbb90ae2d740279c7f3012fc996e9/transformed/jetified-android-networking-1.0.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
