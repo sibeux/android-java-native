@@ -51,10 +51,10 @@ public class CheckButton extends AppCompatActivity {
 
         button.setOnClickListener(v -> {
             username = name.getText().toString();
-            if (username.length() == 0){
+            if (username.isEmpty()){
                 result.setText("Who tf are you?");
             } else{
-                result.setText("Selamat Datang "+username);
+                result.setText("Welcome "+username);
             }
             image.setImageResource(R.drawable.square);
         });

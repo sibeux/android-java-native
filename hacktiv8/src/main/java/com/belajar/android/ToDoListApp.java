@@ -1,24 +1,21 @@
 package com.belajar.android;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.annotation.SuppressLint;
 import android.content.Context;
-import android.graphics.Color;
-import android.graphics.Paint;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.PopupMenu;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.belajar.android.to_do_list.DatabaseList;
 import com.belajar.android.to_do_list.ListModuleClass;
@@ -32,10 +29,6 @@ import java.util.HashMap;
 
 public class ToDoListApp extends AppCompatActivity implements
         ToDoListAdapter.MoreButtonListener, ToDoListAdapter.SquareButtonListener{
-
-    TextView itemList ;
-    ImageView checklist;
-    ImageView more;
 
     String key =  null;
 
@@ -74,6 +67,7 @@ public class ToDoListApp extends AppCompatActivity implements
 
                 for(DataSnapshot data : snapshot.getChildren()){
                     ListModuleClass module = data.getValue(ListModuleClass.class);
+                    assert module != null;
                     module.setKey(data.getKey());
                     listTODO.add(module);
                     key = data.getKey();
@@ -127,7 +121,7 @@ public class ToDoListApp extends AppCompatActivity implements
                     // ToDo get user input here
                     String list = userInput.getText().toString();
 
-                    if (list.trim().length() != 0){
+                    if (!list.trim().isEmpty()){
                         ListModuleClass listModuleClass = new ListModuleClass(list,"false");
                         databaseList.add(listModuleClass);
                     }
@@ -138,7 +132,7 @@ public class ToDoListApp extends AppCompatActivity implements
                     // ToDo get user input here
                     String list = userInput.getText().toString();
 
-                    if (list.trim().length() != 0){
+                    if (!list.trim().isEmpty()){
                         ListModuleClass listModuleClass = new ListModuleClass(list,"false");
                         databaseList.add(listModuleClass);
                     }
@@ -209,7 +203,7 @@ public class ToDoListApp extends AppCompatActivity implements
                     // ToDo get user input here
                     String list = userInput.getText().toString();
 
-                    if (list.trim().length() != 0){
+                    if (!list.trim().isEmpty()){
                         HashMap<String,Object> hashMap = new HashMap<>();
                         hashMap.put("list",list);
                         dao.update(data.getKey(),hashMap);

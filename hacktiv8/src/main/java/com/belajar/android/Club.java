@@ -2,8 +2,8 @@ package com.belajar.android;
 
 public class Club {
 
-    private String teamName;
-    private int logo;
+    private final String teamName;
+    private final int logo;
 
     public Club(String teamName, int logo){
         this.teamName = teamName;
@@ -14,15 +14,7 @@ public class Club {
         return teamName;
     }
 
-    public void setTeamName(String teamName) {
-        this.teamName = teamName;
-    }
-
     public int getLogo() {
         return logo;
-    }
-
-    public void setLogo(int logo) {
-        this.logo = logo;
     }
 }
